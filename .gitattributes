@@ -1,0 +1,3 @@
+# 本仓库不依赖 Git LFS。
+# 目标托管平台（gitee 免费版）不支持 LFS，故二进制（如 control-panel.exe）以普通文件提交。
+# 当前白名单仅放行配置/清单类小文件 + control-panel.exe（12MB，在 gitee 单文件 100MB 限制内）。

@@ -1,0 +1,75 @@
+{
+  "title": "Qwen3-ForcedAligner 0.6B（强制对齐）",
+  "files": [
+    {
+      "url": "https://modelscope.cn/models/Qwen/Qwen3-ForcedAligner-0.6B/resolve/master/README.md",
+      "desc": "说明文档",
+      "size": 57456,
+      "target": "README.md",
+      "sha256sum": ""
+    },
+    {
+      "url": "https://modelscope.cn/models/Qwen/Qwen3-ForcedAligner-0.6B/resolve/master/chat_template.json",
+      "desc": "配置文件",
+      "size": 1161,
+      "target": "chat_template.json",
+      "sha256sum": ""
+    },
+    {
+      "url": "https://modelscope.cn/models/Qwen/Qwen3-ForcedAligner-0.6B/resolve/master/config.json",
+      "desc": "模型配置",
+      "size": 5982,
+      "target": "config.json",
+      "sha256sum": ""
+    },
+    {
+      "url": "https://modelscope.cn/models/Qwen/Qwen3-ForcedAligner-0.6B/resolve/master/configuration.json",
+      "desc": "配置文件",
+      "size": 56,
+      "target": "configuration.json",
+      "sha256sum": ""
+    },
+    {
+      "url": "https://modelscope.cn/models/Qwen/Qwen3-ForcedAligner-0.6B/resolve/master/generation_config.json",
+      "desc": "生成配置",
+      "size": 115,
+      "target": "generation_config.json",
+      "sha256sum": ""
+    },
+    {
+      "url": "https://modelscope.cn/models/Qwen/Qwen3-ForcedAligner-0.6B/resolve/master/merges.txt",
+      "desc": "分词器合并规则",
+      "size": 1671853,
+      "target": "merges.txt",
+      "sha256sum": ""
+    },
+    {
+      "url": "https://modelscope.cn/models/Qwen/Qwen3-ForcedAligner-0.6B/resolve/master/model.safetensors",
+      "desc": "模型权重",
+      "size": 1835544544,
+      "target": "model.safetensors",
+      "sha256sum": ""
+    },
+    {
+      "url": "https://modelscope.cn/models/Qwen/Qwen3-ForcedAligner-0.6B/resolve/master/preprocessor_config.json",
+      "desc": "预处理器配置",
+      "size": 330,
+      "target": "preprocessor_config.json",
+      "sha256sum": ""
+    },
+    {
+      "url": "https://modelscope.cn/models/Qwen/Qwen3-ForcedAligner-0.6B/resolve/master/tokenizer_config.json",
+      "desc": "分词器配置",
+      "size": 12666,
+      "target": "tokenizer_config.json",
+      "sha256sum": ""
+    },
+    {
+      "url": "https://modelscope.cn/models/Qwen/Qwen3-ForcedAligner-0.6B/resolve/master/vocab.json",
+      "desc": "词表",
+      "size": 2776833,
+      "target": "vocab.json",
+      "sha256sum": ""
+    }
+  ]
+}

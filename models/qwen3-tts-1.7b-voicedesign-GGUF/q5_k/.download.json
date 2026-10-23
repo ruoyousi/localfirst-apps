@@ -1,0 +1,12 @@
+{
+  "title": "Qwen3-TTS 1.7B VoiceDesign — q5_k 量化（当前默认）",
+  "files": [
+    {
+      "url": "https://modelscope.cn/models/yxming99/qwen3-tts-1.7b-voicedesign-gguf/resolve/master/qwen3-tts-12hz-1.7b-voicedesign-q5_k.gguf",
+      "desc": "q5_k 量化版（显存敏感场景首选）：audiocpp_gguf 从 Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign safetensors 转换。实测 GPU 总显存约 3.7GB、RTF 0.37（比 bf16 更快——省去反量化开销）。给 ollama 等常驻 LLM 留空间。",
+      "size": 2213835584,
+      "target": "qwen3-tts-12hz-1.7b-voicedesign-q5_k.gguf",
+      "sha256sum": "8c7e49abf46552b0dac48c9067a203d1dc0370e1c767423dc150fe15e84c3099"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "FireRed VAD（语音活动检测）",
+  "files": [
+    {
+      "url": "https://hf-mirror.com/audio-cpp/audio.cpp-gguf/resolve/main/FireRedVAD-GGUF/firered-vad-f32.gguf",
+      "desc": "离线 VAD",
+      "size": 2368640,
+      "target": "firered-vad-f32.gguf",
+      "sha256sum": ""
+    },
+    {
+      "url": "https://hf-mirror.com/audio-cpp/audio.cpp-gguf/resolve/main/FireRedVAD-GGUF/firered-stream-vad-f32.gguf",
+      "desc": "流式 VAD",
+      "size": 2285056,
+      "target": "firered-stream-vad-f32.gguf",
+      "sha256sum": ""
+    }
+  ]
+}

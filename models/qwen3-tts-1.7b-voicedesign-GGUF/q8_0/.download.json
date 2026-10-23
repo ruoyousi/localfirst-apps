@@ -1,0 +1,12 @@
+{
+  "title": "Qwen3-TTS 1.7B VoiceDesign — q8_0 量化（备用，未下载）",
+  "files": [
+    {
+      "url": "https://modelscope.cn/models/yxming99/qwen3-tts-1.7b-voicedesign-gguf/resolve/master/qwen3-tts-12hz-1.7b-voicedesign-q8_0.gguf",
+      "desc": "q8_0 量化版（备用档位，本地未下载，需要时面板一键拉取）：audiocpp_gguf 转换（官方同名 q8_0.gguf 是漏刷新旧格式，不可用，此为自转修复版）。实测显存约 4.7GB、RTF 0.54。介于 q5_k 与 bf16 之间，需要更高精度时用。",
+      "size": 2817028928,
+      "target": "qwen3-tts-12hz-1.7b-voicedesign-q8_0.gguf",
+      "sha256sum": "595cd5c2b9c2649ed6440593687610dbb1aaf6d4d6a13cc8d481254b02e85cf6"
+    }
+  ]
+}

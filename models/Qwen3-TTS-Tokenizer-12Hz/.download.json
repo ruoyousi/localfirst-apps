@@ -1,0 +1,40 @@
+{
+  "title": "Qwen3-TTS Tokenizer 12Hz（音频编解码器）",
+  "files": [
+    {
+      "url": "https://modelscope.cn/models/Qwen/Qwen3-TTS-Tokenizer-12Hz/resolve/master/README.md",
+      "desc": "说明文档",
+      "size": 3482,
+      "target": "README.md",
+      "sha256sum": ""
+    },
+    {
+      "url": "https://modelscope.cn/models/Qwen/Qwen3-TTS-Tokenizer-12Hz/resolve/master/config.json",
+      "desc": "模型配置",
+      "size": 2336,
+      "target": "config.json",
+      "sha256sum": ""
+    },
+    {
+      "url": "https://modelscope.cn/models/Qwen/Qwen3-TTS-Tokenizer-12Hz/resolve/master/configuration.json",
+      "desc": "配置文件",
+      "size": 76,
+      "target": "configuration.json",
+      "sha256sum": ""
+    },
+    {
+      "url": "https://modelscope.cn/models/Qwen/Qwen3-TTS-Tokenizer-12Hz/resolve/master/model.safetensors",
+      "desc": "模型权重",
+      "size": 682293092,
+      "target": "model.safetensors",
+      "sha256sum": ""
+    },
+    {
+      "url": "https://modelscope.cn/models/Qwen/Qwen3-TTS-Tokenizer-12Hz/resolve/master/preprocessor_config.json",
+      "desc": "预处理器配置",
+      "size": 234,
+      "target": "preprocessor_config.json",
+      "sha256sum": ""
+    }
+  ]
+}

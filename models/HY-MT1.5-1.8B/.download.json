@@ -1,0 +1,13 @@
+{
+  "title": "HY-MT1.5-1.8B（混元翻译模型）",
+  "type": "model",
+  "files": [
+    {
+      "url": "https://hf-mirror.com/tencent/HY-MT1.5-1.8B-GGUF/resolve/main/HY-MT1.5-1.8B-Q8_0.gguf",
+      "desc": "混元 MT1.5 1.8B 翻译模型（Q8_0 量化，约 1.78 GB）",
+      "size": 1908528288,
+      "target": "HY-MT1.5-1.8B-Q8_0.gguf",
+      "sha256sum": ""
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "title": "Qwen3-TTS 1.7B Base（参考音频克隆）",
+  "files": [
+    {
+      "url": "https://modelscope.cn/models/Qwen/Qwen3-TTS-12Hz-1.7B-Base/resolve/master/README.md",
+      "desc": "说明文档",
+      "size": 57817,
+      "target": "README.md",
+      "sha256sum": ""
+    },
+    {
+      "url": "https://modelscope.cn/models/Qwen/Qwen3-TTS-12Hz-1.7B-Base/resolve/master/config.json",
+      "desc": "模型配置",
+      "size": 4494,
+      "target": "config.json",
+      "sha256sum": ""
+    },
+    {
+      "url": "https://modelscope.cn/models/Qwen/Qwen3-TTS-12Hz-1.7B-Base/resolve/master/configuration.json",
+      "desc": "配置文件",
+      "size": 47,
+      "target": "configuration.json",
+      "sha256sum": ""
+    },
+    {
+      "url": "https://modelscope.cn/models/Qwen/Qwen3-TTS-12Hz-1.7B-Base/resolve/master/generation_config.json",
+      "desc": "生成配置",
+      "size": 245,
+      "target": "generation_config.json",
+      "sha256sum": ""
+    },
+    {
+      "url": "https://modelscope.cn/models/Qwen/Qwen3-TTS-12Hz-1.7B-Base/resolve/master/merges.txt",
+      "desc": "分词器合并规则",
+      "size": 1671839,
+      "target": "merges.txt",
+      "sha256sum": ""
+    },
+    {
+      "url": "https://modelscope.cn/models/Qwen/Qwen3-TTS-12Hz-1.7B-Base/resolve/master/model.safetensors",
+      "desc": "模型权重",
+      "size": 3857413744,
+      "target": "model.safetensors",
+      "sha256sum": ""
+    },
+    {
+      "url": "https://modelscope.cn/models/Qwen/Qwen3-TTS-12Hz-1.7B-Base/resolve/master/preprocessor_config.json",
+      "desc": "预处理器配置",
+      "size": 127,
+      "target": "preprocessor_config.json",
+      "sha256sum": ""
+    },
+    {
+      "url": "https://modelscope.cn/models/Qwen/Qwen3-TTS-12Hz-1.7B-Base/resolve/master/speech_tokenizer/config.json",
+      "desc": "模型配置",
+      "size": 2336,
+      "target": "speech_tokenizer/config.json",
+      "sha256sum": ""
+    },
+    {
+      "url": "https://modelscope.cn/models/Qwen/Qwen3-TTS-12Hz-1.7B-Base/resolve/master/speech_tokenizer/configuration.json",
+      "desc": "语音 tokenizer（12Hz 编解码器）",
+      "size": 76,
+      "target": "speech_tokenizer/configuration.json",
+      "sha256sum": ""
+    },
+    {
+      "url": "https://modelscope.cn/models/Qwen/Qwen3-TTS-12Hz-1.7B-Base/resolve/master/speech_tokenizer/model.safetensors",
+      "desc": "模型权重",
+      "size": 682293092,
+      "target": "speech_tokenizer/model.safetensors",
+      "sha256sum": ""
+    },
+    {
+      "url": "https://modelscope.cn/models/Qwen/Qwen3-TTS-12Hz-1.7B-Base/resolve/master/speech_tokenizer/preprocessor_config.json",
+      "desc": "预处理器配置",
+      "size": 234,
+      "target": "speech_tokenizer/preprocessor_config.json",
+      "sha256sum": ""
+    },
+    {
+      "url": "https://modelscope.cn/models/Qwen/Qwen3-TTS-12Hz-1.7B-Base/resolve/master/tokenizer_config.json",
+      "desc": "分词器配置",
+      "size": 7344,
+      "target": "tokenizer_config.json",
+      "sha256sum": ""
+    },
+    {
+      "url": "https://modelscope.cn/models/Qwen/Qwen3-TTS-12Hz-1.7B-Base/resolve/master/vocab.json",
+      "desc": "词表",
+      "size": 2776833,
+      "target": "vocab.json",
+      "sha256sum": ""
+    }
+  ]
+}

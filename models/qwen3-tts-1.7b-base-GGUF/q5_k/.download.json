@@ -1,0 +1,12 @@
+{
+  "title": "Qwen3-TTS 1.7B Base — q5_k 量化（声纹克隆用）",
+  "files": [
+    {
+      "url": "https://modelscope.cn/models/yxming99/qwen3-tts-1.7b-base-gguf/resolve/master/qwen3-tts-12hz-1.7b-base-q5_k.gguf",
+      "desc": "q5_k 量化版（声纹克隆 / Base 变体）：audiocpp_gguf 从 Qwen/Qwen3-TTS-12Hz-1.7B-Base safetensors 转换。配合 audio.cpp 的 clon 任务做 3 秒声音克隆。实测 GPU 总显存约 3.7GB。",
+      "size": 2237882112,
+      "target": "qwen3-tts-12hz-1.7b-base-q5_k.gguf",
+      "sha256sum": "d01d57a1b697748ad92185b9826d9aa90a23149b02d9ed48f6679ce7fa485e79"
+    }
+  ]
+}

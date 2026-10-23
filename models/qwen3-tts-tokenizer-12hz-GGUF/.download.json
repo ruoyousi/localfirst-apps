@@ -1,0 +1,12 @@
+{
+  "title": "Qwen3-TTS Tokenizer 12Hz —— GGUF 格式",
+  "files": [
+    {
+      "url": "https://modelscope.cn/models/cloudlnk/qwen3-tts-tokenizer-12hz-GGUF/resolve/master/qwen3-tts-tokenizer-12hz.gguf",
+      "desc": "12Hz 语音编解码器（GGUF 格式）—— llama.cpp 生态转换版，358MB",
+      "size": 358453280,
+      "target": "qwen3-tts-tokenizer-12hz.gguf",
+      "sha256sum": ""
+    }
+  ]
+}

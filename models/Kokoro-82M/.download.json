@@ -1,0 +1,75 @@
+{
+  "title": "Kokoro 82M（轻量语音合成）",
+  "files": [
+    {
+      "url": "https://hf-mirror.com/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth",
+      "desc": "主模型权重",
+      "size": 327212226,
+      "target": "kokoro-v1_0.pth",
+      "sha256sum": ""
+    },
+    {
+      "url": "https://hf-mirror.com/hexgrad/Kokoro-82M/resolve/main/config.json",
+      "desc": "模型配置",
+      "size": 2351,
+      "target": "config.json",
+      "sha256sum": ""
+    },
+    {
+      "url": "https://hf-mirror.com/hexgrad/Kokoro-82M/resolve/main/voices/zf_xiaobei.pt",
+      "desc": "音色：zf_xiaobei",
+      "size": 523000,
+      "target": "voices/zf_xiaobei.pt",
+      "sha256sum": ""
+    },
+    {
+      "url": "https://hf-mirror.com/hexgrad/Kokoro-82M/resolve/main/voices/zf_xiaoni.pt",
+      "desc": "音色：zf_xiaoni",
+      "size": 523000,
+      "target": "voices/zf_xiaoni.pt",
+      "sha256sum": ""
+    },
+    {
+      "url": "https://hf-mirror.com/hexgrad/Kokoro-82M/resolve/main/voices/zf_xiaoxiao.pt",
+      "desc": "音色：zf_xiaoxiao",
+      "size": 523000,
+      "target": "voices/zf_xiaoxiao.pt",
+      "sha256sum": ""
+    },
+    {
+      "url": "https://hf-mirror.com/hexgrad/Kokoro-82M/resolve/main/voices/zf_xiaoyi.pt",
+      "desc": "音色：zf_xiaoyi",
+      "size": 523000,
+      "target": "voices/zf_xiaoyi.pt",
+      "sha256sum": ""
+    },
+    {
+      "url": "https://hf-mirror.com/hexgrad/Kokoro-82M/resolve/main/voices/zm_yunjian.pt",
+      "desc": "音色：zm_yunjian",
+      "size": 523000,
+      "target": "voices/zm_yunjian.pt",
+      "sha256sum": ""
+    },
+    {
+      "url": "https://hf-mirror.com/hexgrad/Kokoro-82M/resolve/main/voices/zm_yunxi.pt",
+      "desc": "音色：zm_yunxi",
+      "size": 523000,
+      "target": "voices/zm_yunxi.pt",
+      "sha256sum": ""
+    },
+    {
+      "url": "https://hf-mirror.com/hexgrad/Kokoro-82M/resolve/main/voices/zm_yunxia.pt",
+      "desc": "音色：zm_yunxia",
+      "size": 523000,
+      "target": "voices/zm_yunxia.pt",
+      "sha256sum": ""
+    },
+    {
+      "url": "https://hf-mirror.com/hexgrad/Kokoro-82M/resolve/main/voices/zm_yunyang.pt",
+      "desc": "音色：zm_yunyang",
+      "size": 523000,
+      "target": "voices/zm_yunyang.pt",
+      "sha256sum": ""
+    }
+  ]
+}
