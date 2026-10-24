@@ -1,6 +1,7 @@
 {
   "title": "数据可视化工具（DataChart）应用",
   "type": "app",
+  "version": "1.0.0",
   "files": [
     {
       "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/DataChart.zip",

@@ -38,7 +38,7 @@ REM 4. 「应用」页签：启动本地应用
 ```text
 localfirst-apps/
 ├── control-panel.exe          # 统一控制台（双击运行）
-├── config.ini                 # 全局配置（GitHub 加速代理 GH_PROXY 等）
+├── config.ini                 # 全局配置（[github] 加速代理 GH_PROXY / 镜像仓库 repo、backup-repo）
 ├── bin/                       # 应用 / 服务 / 运行时（按子目录组织）
 │   ├── Copybook/              # 字帖生成器
 │   ├── DataChart/             # 数据可视化工具

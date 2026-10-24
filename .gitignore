@@ -14,6 +14,8 @@
 !/.gitattributes
 !/README.md
 !/control-panel.exe
+!/update-history.json
+!/install-localfirst-apps.ps1
 
 # 放行各类清单 / 配置（全局模式，任意层级生效）
 !*.download.json
