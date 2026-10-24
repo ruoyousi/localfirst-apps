@@ -1,0 +1,13 @@
+{
+  "title": "audio.cpp CUDA13 推理运行时",
+  "type": "server",
+  "files": [
+    {
+      "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/audio.cpp_cuda13.zip",
+      "desc": "运行时包",
+      "size": 275580790,
+      "target": "audio.cpp_cuda13.zip",
+      "sha256sum": ""
+    }
+  ]
+}

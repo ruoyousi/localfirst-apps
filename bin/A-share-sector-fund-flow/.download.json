@@ -1,0 +1,13 @@
+{
+  "title": "A股板块资金流应用",
+  "type": "app",
+  "files": [
+    {
+      "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/A-share-sector-fund-flow.zip",
+      "desc": "应用包",
+      "size": 2002673,
+      "target": "A-share-sector-fund-flow.zip",
+      "sha256sum": ""
+    }
+  ]
+}

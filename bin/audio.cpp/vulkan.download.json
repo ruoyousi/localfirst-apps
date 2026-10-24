@@ -1,0 +1,13 @@
+{
+  "title": "audio.cpp Vulkan 推理运行时",
+  "type": "server",
+  "files": [
+    {
+      "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/audio.cpp_vulkan.zip",
+      "desc": "运行时包",
+      "size": 62786970,
+      "target": "audio.cpp_vulkan.zip",
+      "sha256sum": ""
+    }
+  ]
+}

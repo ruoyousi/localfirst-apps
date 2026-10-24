@@ -1,0 +1,13 @@
+{
+  "title": "字帖生成器（Copybook）应用",
+  "type": "app",
+  "files": [
+    {
+      "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/Copybook.zip",
+      "desc": "应用包",
+      "size": 1868873,
+      "target": "Copybook.zip",
+      "sha256sum": ""
+    }
+  ]
+}
