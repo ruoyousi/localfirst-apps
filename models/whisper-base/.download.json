@@ -1,78 +1,78 @@
 {
-  "title": "Whisper Base（语音识别，HuggingFace 格式）",
+  "title": "Whisper Base（语音识别，audio.cpp 格式）",
   "files": [
     {
-      "url": "https://hf-mirror.com/openai/whisper-base/resolve/main/model.safetensors",
-      "desc": "权重",
-      "size": 290403936,
-      "target": "model.safetensors",
-      "sha256sum": ""
+      "url": "https://modelscope.cn/models/yxming99/whisper-base-audiocpp-gguf/resolve/master/model.gguf",
+      "desc": "audio.cpp 原生 GGUF（audiocpp_gguf 从 openai/whisper-base safetensors 转换产物，q8_0，110MB）。内嵌 model spec，server 直接加载",
+      "size": 110316960,
+      "target": "model.gguf",
+      "sha256sum": "eed17aa78f07a277ac4083430dfbb52c38479bfa05664168e71c3c5cc962eb2b"
     },
     {
-      "url": "https://hf-mirror.com/openai/whisper-base/resolve/main/config.json",
+      "url": "https://modelscope.cn/models/yxming99/whisper-base-audiocpp-gguf/resolve/master/config.json",
       "desc": "模型配置",
       "size": 1983,
       "target": "config.json",
       "sha256sum": ""
     },
     {
-      "url": "https://hf-mirror.com/openai/whisper-base/resolve/main/generation_config.json",
+      "url": "https://modelscope.cn/models/yxming99/whisper-base-audiocpp-gguf/resolve/master/generation_config.json",
       "desc": "生成配置",
       "size": 3807,
       "target": "generation_config.json",
       "sha256sum": ""
     },
     {
-      "url": "https://hf-mirror.com/openai/whisper-base/resolve/main/preprocessor_config.json",
+      "url": "https://modelscope.cn/models/yxming99/whisper-base-audiocpp-gguf/resolve/master/preprocessor_config.json",
       "desc": "预处理器配置",
       "size": 184990,
       "target": "preprocessor_config.json",
       "sha256sum": ""
     },
     {
-      "url": "https://hf-mirror.com/openai/whisper-base/resolve/main/tokenizer.json",
+      "url": "https://modelscope.cn/models/yxming99/whisper-base-audiocpp-gguf/resolve/master/tokenizer.json",
       "desc": "分词器",
       "size": 2480466,
       "target": "tokenizer.json",
       "sha256sum": ""
     },
     {
-      "url": "https://hf-mirror.com/openai/whisper-base/resolve/main/tokenizer_config.json",
+      "url": "https://modelscope.cn/models/yxming99/whisper-base-audiocpp-gguf/resolve/master/tokenizer_config.json",
       "desc": "分词器配置",
       "size": 282683,
       "target": "tokenizer_config.json",
       "sha256sum": ""
     },
     {
-      "url": "https://hf-mirror.com/openai/whisper-base/resolve/main/vocab.json",
+      "url": "https://modelscope.cn/models/yxming99/whisper-base-audiocpp-gguf/resolve/master/vocab.json",
       "desc": "词表",
       "size": 835550,
       "target": "vocab.json",
       "sha256sum": ""
     },
     {
-      "url": "https://hf-mirror.com/openai/whisper-base/resolve/main/merges.txt",
+      "url": "https://modelscope.cn/models/yxming99/whisper-base-audiocpp-gguf/resolve/master/merges.txt",
       "desc": "合并规则",
       "size": 493869,
       "target": "merges.txt",
       "sha256sum": ""
     },
     {
-      "url": "https://hf-mirror.com/openai/whisper-base/resolve/main/added_tokens.json",
+      "url": "https://modelscope.cn/models/yxming99/whisper-base-audiocpp-gguf/resolve/master/added_tokens.json",
       "desc": "新增 token",
       "size": 34604,
       "target": "added_tokens.json",
       "sha256sum": ""
     },
     {
-      "url": "https://hf-mirror.com/openai/whisper-base/resolve/main/special_tokens_map.json",
+      "url": "https://modelscope.cn/models/yxming99/whisper-base-audiocpp-gguf/resolve/master/special_tokens_map.json",
       "desc": "特殊 token 映射",
       "size": 2194,
       "target": "special_tokens_map.json",
       "sha256sum": ""
     },
     {
-      "url": "https://hf-mirror.com/openai/whisper-base/resolve/main/normalizer.json",
+      "url": "https://modelscope.cn/models/yxming99/whisper-base-audiocpp-gguf/resolve/master/normalizer.json",
       "desc": "归一化配置",
       "size": 52666,
       "target": "normalizer.json",

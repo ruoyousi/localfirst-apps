@@ -1,0 +1,82 @@
+{
+  "title": "Whisper Small（语音识别，audio.cpp 格式）",
+  "files": [
+    {
+      "url": "https://modelscope.cn/models/yxming99/whisper-small-audiocpp-gguf/resolve/master/model.gguf",
+      "desc": "audio.cpp 原生 GGUF（audiocpp_gguf 从 openai/whisper-small safetensors 转换产物，混合量化，306MB）。内嵌 model spec，server 直接加载",
+      "size": 306574944,
+      "target": "model.gguf",
+      "sha256sum": "587851f37d5739c1531ce04bb8ddd2fd66303a8c47888a52091a459be85f06cd"
+    },
+    {
+      "url": "https://modelscope.cn/models/yxming99/whisper-small-audiocpp-gguf/resolve/master/config.json",
+      "desc": "模型配置",
+      "size": 1967,
+      "target": "config.json",
+      "sha256sum": "e6a2b489da1b5aed65a8eb8d1e7466fa867ad5643a8bc138ba708bd56b2875c4"
+    },
+    {
+      "url": "https://modelscope.cn/models/yxming99/whisper-small-audiocpp-gguf/resolve/master/generation_config.json",
+      "desc": "生成配置",
+      "size": 3868,
+      "target": "generation_config.json",
+      "sha256sum": "71565b8ef50d0bf7a1193ed4bbed195b94e70c18894d81bba2f1233dcec3ab53"
+    },
+    {
+      "url": "https://modelscope.cn/models/yxming99/whisper-small-audiocpp-gguf/resolve/master/preprocessor_config.json",
+      "desc": "预处理器配置",
+      "size": 184990,
+      "target": "preprocessor_config.json",
+      "sha256sum": "9b5cd03a36fbb8a627c64d98a5b5b126ead95a77720723944487311f0110b666"
+    },
+    {
+      "url": "https://modelscope.cn/models/yxming99/whisper-small-audiocpp-gguf/resolve/master/tokenizer.json",
+      "desc": "分词器",
+      "size": 2480466,
+      "target": "tokenizer.json",
+      "sha256sum": "27fc476bfe7f17299480be2273fc0608e4d5a99aba2ab5dec5374b4482d1a566"
+    },
+    {
+      "url": "https://modelscope.cn/models/yxming99/whisper-small-audiocpp-gguf/resolve/master/tokenizer_config.json",
+      "desc": "分词器配置",
+      "size": 282683,
+      "target": "tokenizer_config.json",
+      "sha256sum": "2a4c4281cf9f51ac6ccc406fdc711a087afe6530f671fa7b80953edc498275ce"
+    },
+    {
+      "url": "https://modelscope.cn/models/yxming99/whisper-small-audiocpp-gguf/resolve/master/vocab.json",
+      "desc": "词表",
+      "size": 835550,
+      "target": "vocab.json",
+      "sha256sum": "8f680bba319e01a653d2e8a5dbc17a9157179e0576e6ce74ce0c06356c6e24f9"
+    },
+    {
+      "url": "https://modelscope.cn/models/yxming99/whisper-small-audiocpp-gguf/resolve/master/merges.txt",
+      "desc": "合并规则",
+      "size": 493869,
+      "target": "merges.txt",
+      "sha256sum": "2df2990a395e35e8dfbc7511e08c12d56018d8d04691e0133e5d63b21e154dc6"
+    },
+    {
+      "url": "https://modelscope.cn/models/yxming99/whisper-small-audiocpp-gguf/resolve/master/added_tokens.json",
+      "desc": "新增 token",
+      "size": 34604,
+      "target": "added_tokens.json",
+      "sha256sum": "9715fd2243b6f06a5858b5e32950d2853f73dd5bc201aafcf76f5082a2d8acd1"
+    },
+    {
+      "url": "https://modelscope.cn/models/yxming99/whisper-small-audiocpp-gguf/resolve/master/special_tokens_map.json",
+      "desc": "特殊 token 映射",
+      "size": 2194,
+      "target": "special_tokens_map.json",
+      "sha256sum": "e67ae3a0aaa99abcd9f187138e12db1f65c16a14761c50ef10eef2c174a7a691"
+    },
+    {
+      "url": "https://modelscope.cn/models/yxming99/whisper-small-audiocpp-gguf/resolve/master/normalizer.json",
+      "desc": "归一化配置",
+      "size": 52666,
+      "target": "normalizer.json",
+      "sha256sum": "bf1c507dc8724ca9cf9903640dacfb69dae2f00edee4f21ceba106a7392f26dd"
+    }
+  ]
+}
