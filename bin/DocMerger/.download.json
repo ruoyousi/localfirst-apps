@@ -1,0 +1,14 @@
+{
+  "title": "合稿易（DocMerger）应用",
+  "type": "app",
+  "version": "1.0.0",
+  "files": [
+    {
+      "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/DocMerger.zip",
+      "desc": "应用包",
+      "size": 47330328,
+      "target": "DocMerger.zip",
+      "sha256sum": "c096147d89a152b36782a86880f5cfa91be9b248ea9047d4b873392bcb166f11"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "title": "画语 AI 提示词助手（AI-Prompt-Helper）应用",
+  "type": "app",
+  "version": "1.0.0",
+  "files": [
+    {
+      "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/AI-Prompt-Helper.zip",
+      "desc": "应用包",
+      "size": 3791888,
+      "target": "AI-Prompt-Helper.zip",
+      "sha256sum": "3a67688745fe904828159e02f3907497423f7c0944f2b9d497032bb5dfc514e4"
+    }
+  ]
+}

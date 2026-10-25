@@ -1,0 +1,14 @@
+{
+  "title": "心流写作（FlowWrite）应用",
+  "type": "app",
+  "version": "1.0.0",
+  "files": [
+    {
+      "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/FlowWrite.zip",
+      "desc": "应用包",
+      "size": 3502323,
+      "target": "FlowWrite.zip",
+      "sha256sum": "b1757d016d92c9b238c93818495e7759aeb0474658eeae02e2896c3b4be22776"
+    }
+  ]
+}

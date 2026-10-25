@@ -1,0 +1,14 @@
+{
+  "title": "个人工作台（FocusOn）应用",
+  "type": "app",
+  "version": "1.0.0",
+  "files": [
+    {
+      "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/FocusOn.zip",
+      "desc": "应用包",
+      "size": 8442284,
+      "target": "FocusOn.zip",
+      "sha256sum": "39bb872fd881caed4e402c96049a6b9da50850b45eaa22141abe27f997513372"
+    }
+  ]
+}

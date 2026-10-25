@@ -1,0 +1,14 @@
+{
+  "title": "纳戒提示词库（Storagering）应用",
+  "type": "app",
+  "version": "1.0.0",
+  "files": [
+    {
+      "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/Storagering.zip",
+      "desc": "应用包",
+      "size": 4013364,
+      "target": "Storagering.zip",
+      "sha256sum": "82e925969dbfffcab28e10f91498ee2fb5276bd2c9bba5a1fd69aced8ab7fa8d"
+    }
+  ]
+}

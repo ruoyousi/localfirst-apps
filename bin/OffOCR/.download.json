@@ -1,0 +1,14 @@
+{
+  "title": "离线文档解析（OffOCR）应用",
+  "type": "app",
+  "version": "1.0.0",
+  "files": [
+    {
+      "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/OffOCR.zip",
+      "desc": "应用包",
+      "size": 87528657,
+      "target": "OffOCR.zip",
+      "sha256sum": "d1d8a8483d17235d82e3bd687c84e28cc1e57e28269bbbc3b450de1cd0eb0cca"
+    }
+  ]
+}

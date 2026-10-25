@@ -1,0 +1,14 @@
+{
+  "title": "语音工具箱（Lovo）应用",
+  "type": "app",
+  "version": "1.0.0",
+  "files": [
+    {
+      "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/Lovo.zip",
+      "desc": "应用包",
+      "size": 11408912,
+      "target": "Lovo.zip",
+      "sha256sum": "bd8cde73b763e44b3b703ba2dd79ae203ef20968901e8210daf65337ccc9e27c"
+    }
+  ]
+}
