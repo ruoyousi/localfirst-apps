@@ -40,9 +40,7 @@ localfirst-apps/
 ├── control-panel.exe          # 统一控制台（双击运行）
 ├── config.ini                 # 全局配置（[github] 加速代理 GH_PROXY / 镜像仓库 repo、backup-repo）
 ├── bin/                       # 应用 / 服务 / 运行时（按子目录组织）
-│   ├── Copybook/              # 字帖生成器
 │   ├── DataChart/             # 数据可视化工具
-│   ├── A-share-sector-fund-flow/   # A股板块资金流
 │   ├── Lovo/                  # 语音工具箱（含 audio.cpp 服务配置）
 │   ├── Perch/                 # 栖心 AI 角色聊天（含 audio.cpp 服务配置）
 │   ├── PixelForge/            # 图片 AI 编辑（含推理服务）
@@ -64,9 +62,7 @@ localfirst-apps/
 
 | 应用 | 说明 | 入口程序 | 标签 |
 | --- | --- | --- | --- |
-| **Copybook** | 字帖生成器 | `copybook.exe` | 免费 · 离线 · Windows |
 | **DataChart** | 数据可视化工具 | `data-chart.exe` | 免费 · 离线 · Windows |
-| **A股板块资金流** | A-share sector fund flow | `a-share-sector-fund-flow.exe` | 免费 · 离线 · Windows |
 | **Lovo** | 语音工具箱 | `voice-ui.exe` | AI · 离线 · 创作 · Windows |
 | **Perch** | 栖心 Perch —— 本地优先的 AI 角色聊天桌面助手，支持本地 TTS 朗读与语音输入（需 audio.cpp 服务） | `perch.exe` | AI · 离线 · Windows |
 | **PixelForge** | 本地优先、可离线的图片 AI 编辑工具：纯 Rust + Candle 复刻 ComfyUI 的 Qwen-Image-Edit 推理流程，按提示词编辑 / 生成图片，全程不联网 | `pixelforge-ui.exe` | AI · 离线 · 创作 · Windows |
