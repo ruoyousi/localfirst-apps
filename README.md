@@ -7,6 +7,22 @@
 
 ## 快速开始
 
+PowerShell 一键安装命令：
+
+```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -Command "iwr -Uri 'https://gh-proxy.org/https://raw.githubusercontent.com/ruoyousi/localfirst-apps/master/install-localfirst-apps.ps1' -OutFile '.\install-localfirst-apps.ps1'; .\install-localfirst-apps.ps1"
+```
+
+默认安装到指定目录（如 `E:\`），增加参数即可：
+
+```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -Command "iwr -Uri 'https://gh-proxy.org/https://raw.githubusercontent.com/ruoyousi/localfirst-apps/master/install-localfirst-apps.ps1' -OutFile '.\install-localfirst-apps.ps1'; .\install-localfirst-apps.ps1 E:\"
+```
+
+安装完成后进入安装目录，双击 `localfirst-apps\control-panel.exe` 打开控制面板，按需下载软件包或模型、启停服务。
+
+
+
 ```bat
 REM 1. 双击运行控制面板
 control-panel.exe
@@ -63,9 +79,17 @@ localfirst-apps/
 | 应用 | 说明 | 入口程序 | 标签 |
 | --- | --- | --- | --- |
 | **DataChart** | 数据可视化工具 | `data-chart.exe` | 免费 · 离线 · Windows |
-| **Lovo** | 语音工具箱 | `voice-ui.exe` | AI · 离线 · 创作 · Windows |
-| **Perch** | 栖心 Perch —— 本地优先的 AI 角色聊天桌面助手，支持本地 TTS 朗读与语音输入（需 audio.cpp 服务） | `perch.exe` | AI · 离线 · Windows |
-| **PixelForge** | 本地优先、可离线的图片 AI 编辑工具：纯 Rust + Candle 复刻 ComfyUI 的 Qwen-Image-Edit 推理流程，按提示词编辑 / 生成图片，全程不联网 | `pixelforge-ui.exe` | AI · 离线 · 创作 · Windows |
+| **合稿易 DocMerger** | 合稿易 DocMerger —— 本地文档合稿工具（Java 原生 exe，GraalVM Native Image）：多文档合并 / 内容替换 / 一键成稿，支持 Word 文档，全程离线。 | `DocMerger.exe` | 离线 · 创作 · Windows |
+| **心流写作 FlowWrite** | 心流写作 FlowWrite —— 本地优先的 AI 小说写作工作台：项目 / 大纲 / 章节 / 角色 / 世界观设定 / 章节版本与记忆库，长篇创作全程离线。 | `flowwrite.exe` | AI · 离线 · 创作 · Windows |
+| **个人工作台 FocusOn** | 个人工作台 FocusOn —— 个体工作方法论工具：四象限待办 / 记账 / 日历提醒 / Markdown 笔记 / 习惯打卡 / 番茄专注 / 履历 / 人脉 / 健康记录 / AI 助手，沉淀属于自己的工作节奏，全程离线。 | `FocusOn.exe` | AI · 离线 · 数据 · Windows |
+| **Lovo** | 本地语音工具箱 —— 语音合成 / 声音克隆 / 音色设计 / 语音识别（CLI + HTTP API + 桌面 UI 三形态），推理走本地 audio.cpp 服务，全程离线。 | `voice-ui.exe` | AI · 离线 · 创作 · Windows |
+| **离线文档解析 OffOCR** | 离线文档解析 OffOCR —— PaddleOCR-VL + PP-DocLayout 视觉模型，扫描件 / PDF 转结构化数据，支持 Markdown / Word 导出，全程不上传。桌面 UI + 本地 HTTP 服务 + CLI 三形态，模型走共享模型仓库。 | `offocr-ui.exe` | AI · 离线 · Windows |
+| **Perch** | 栖心 Perch —— 本地优先的 AI 角色聊天桌面助手，支持本地 TTS 朗读与语音输入（需 audio.cpp 服务）。 | `perch.exe` | AI · 离线 · Windows |
+| **PixelForge** | 本地优先、可离线的图片 AI 编辑工具：纯 Rust + Candle 复刻 ComfyUI 的 Qwen-Image-Edit 推理流程，在单张消费级显卡上按提示词编辑 / 生成图片，全程不联网、不依赖 Python。 | `pixelforge-ui.exe` | AI · 离线 · 创作 · Windows |
+| **纳戒 Storagering** | 本地提示词库管理器 —— 把散落在聊天记录里的 Prompt 收进「纳戒」，随取随用。全文搜索、标签管理、{{变量}} 填充、AI 优化（需 Ollama），数据只存本机。 | `storagering.exe` | AI · 离线 · 创作 · Windows |
+| **表伴 TableBuddy** | 本地数据工作台 —— 把 CSV / Excel 导入为结构化数据表，做查询、筛选、增删改，并以「应用 + 静态资源」的方式对外提供数据服务。所有数据留在本机。 | `tablebuddy.exe` | 数据 · 离线 · 创作 · Windows |
+| **离线多语言互译 Transly** | 离线多语言互译 Transly —— 基于本地大模型（HY-MT1.5-1.8B GGUF）的多语言翻译工作台：桌面 UI + HTTP 服务 + CLI 三形态，术语库 / 翻译记忆 / 历史记录本地留存，全程离线。 | `transly-ui.exe` | AI · 离线 · Windows |
+| **画语 AI-Prompt-Helper** | AI 绘画提示词助手 —— 维度化组装 Midjourney / Stable Diffusion 提示词，内置参考词库与提示词规范，支持本地保存常用提示词。全程离线。 | `ai-image-prompt-helper.exe` | AI · 离线 · 创作 · Windows |
 
 ---
 
@@ -139,21 +163,23 @@ localfirst-apps/
 
 ---
 
-## 安装
+## 更新历史
 
-PowerShell 一键安装命令：
-
-```powershell
-powershell -NoProfile -ExecutionPolicy Bypass -Command "iwr -Uri 'https://gh-proxy.org/https://raw.githubusercontent.com/ruoyousi/localfirst-apps/master/install-localfirst-apps.ps1' -OutFile '.\install-localfirst-apps.ps1'; .\install-localfirst-apps.ps1"
-```
-
-默认安装到指定目录（如 `E:\`），增加参数即可：
-
-```powershell
-powershell -NoProfile -ExecutionPolicy Bypass -Command "iwr -Uri 'https://gh-proxy.org/https://raw.githubusercontent.com/ruoyousi/localfirst-apps/master/install-localfirst-apps.ps1' -OutFile '.\install-localfirst-apps.ps1'; .\install-localfirst-apps.ps1 E:\"
-```
-
-安装完成后进入安装目录，双击 `localfirst-apps\control-panel.exe` 打开控制面板，按需下载软件包或模型、启停服务。
+| 产品 | 日期 | 更新 |
+| --- | --- | --- |
+| 心流写作-FlowWrite |  |  |
+| 离线多语言互译-Transly |  |  |
+| 离线文档解析-OffOCR |  |  |
+| 合稿易-DocMerger |  |  |
+| 本地声音工具-Lovo | 2026-10-14 | AI辅助生成音频脚本； 多角色剧本合成【重要】；设计音色时测试；实时播放波形 |
+| 个人工作台-FocusOn | 2026-10-12 | 增加【个人履历】模块，支持导入导出和打印，AI优化简介 |
+| AI绘画提示词助手-画语 |  |  |
+| 纳戒-Storagering | 2026-10-12 | 支持 AI优化 提示词 |
+| 数据可视化工具-DataChart |  |  |
+| TableBuddy-表伴 |  |  |
+| JianQi-简企 |  | 开发中 |
+| Perch-栖心 |  | 开发中 |
+| PixForge-像素锻造 |  | 开发中 |
 
 ---
 
