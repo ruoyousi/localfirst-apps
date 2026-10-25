@@ -6,57 +6,57 @@
       "url": "https://modelscope.cn/api/v1/models/PaddlePaddle/PaddleOCR-VL/repo?Revision=master&FilePath=config.json",
       "backup-url": "https://hf-mirror.com/PaddlePaddle/PaddleOCR-VL/resolve/main/config.json",
       "desc": "模型配置",
-      "size": 0,
+      "size": 2059,
       "target": "PaddleOCR-VL/config.json",
-      "sha256sum": ""
+      "sha256sum": "ce7f4565f8b1db78532ad5d1b9ebe55c2139d49bd4cb04778b580a08a598f171"
     },
     {
       "url": "https://modelscope.cn/api/v1/models/PaddlePaddle/PaddleOCR-VL/repo?Revision=master&FilePath=model.safetensors",
       "backup-url": "https://hf-mirror.com/PaddlePaddle/PaddleOCR-VL/resolve/main/model.safetensors",
       "desc": "主权重（约 1.8 GB）",
-      "size": 0,
+      "size": 1917255968,
       "target": "PaddleOCR-VL/model.safetensors",
-      "sha256sum": ""
+      "sha256sum": "3085f1042e184f68f8a412aa0f64f2c4b8562989598bbfba326aaa11fc685de8"
     },
     {
       "url": "https://modelscope.cn/api/v1/models/PaddlePaddle/PaddleOCR-VL/repo?Revision=master&FilePath=tokenizer.json",
       "backup-url": "https://hf-mirror.com/PaddlePaddle/PaddleOCR-VL/resolve/main/tokenizer.json",
       "desc": "分词器词表",
-      "size": 0,
+      "size": 11187679,
       "target": "PaddleOCR-VL/tokenizer.json",
-      "sha256sum": ""
+      "sha256sum": "f90f04fd8e5eb6dfa380f37d10c87392de8438dccb6768a2486b5a96ee76dba6"
     },
     {
       "url": "https://modelscope.cn/api/v1/models/PaddlePaddle/PaddleOCR-VL/repo?Revision=master&FilePath=tokenizer_config.json",
       "backup-url": "https://hf-mirror.com/PaddlePaddle/PaddleOCR-VL/resolve/main/tokenizer_config.json",
       "desc": "分词器配置",
-      "size": 0,
+      "size": 185587,
       "target": "PaddleOCR-VL/tokenizer_config.json",
-      "sha256sum": ""
+      "sha256sum": "2eb86166750a1ce6aaeb60d12ef7d88a68e5545ee986a2d266bf143ff8d26f3c"
     },
     {
       "url": "https://modelscope.cn/api/v1/models/PaddlePaddle/PaddleOCR-VL/repo?Revision=master&FilePath=preprocessor_config.json",
       "backup-url": "https://hf-mirror.com/PaddlePaddle/PaddleOCR-VL/resolve/main/preprocessor_config.json",
       "desc": "预处理配置",
-      "size": 0,
+      "size": 641,
       "target": "PaddleOCR-VL/preprocessor_config.json",
-      "sha256sum": ""
+      "sha256sum": "0c349d1210abce664bdba8986dc0637e94679b1fe90f13fcb18616a6466c4618"
     },
     {
       "url": "https://modelscope.cn/api/v1/models/PaddlePaddle/PaddleOCR-VL/repo?Revision=master&FilePath=generation_config.json",
       "backup-url": "https://hf-mirror.com/PaddlePaddle/PaddleOCR-VL/resolve/main/generation_config.json",
       "desc": "生成配置（可选）",
-      "size": 0,
+      "size": 133,
       "target": "PaddleOCR-VL/generation_config.json",
-      "sha256sum": ""
+      "sha256sum": "a6701d78ab3b4d972307cdec3b69d4c13f46e0d5140514f50ab7d84259324b94"
     },
     {
       "url": "https://modelscope.cn/api/v1/models/PaddlePaddle/PaddleOCR-VL/repo?Revision=master&FilePath=special_tokens_map.json",
       "backup-url": "https://hf-mirror.com/PaddlePaddle/PaddleOCR-VL/resolve/main/special_tokens_map.json",
       "desc": "特殊 token 映射（可选）",
-      "size": 0,
+      "size": 1152,
       "target": "PaddleOCR-VL/special_tokens_map.json",
-      "sha256sum": ""
+      "sha256sum": "215bf3a1b155fafe3497f8790bedf280af92d29c2f0286c2f87a5c78baff8f7c"
     }
   ]
 }

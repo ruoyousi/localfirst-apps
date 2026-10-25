@@ -4,51 +4,51 @@
     {
       "url": "https://hf-mirror.com/Comfy-Org/Qwen-Image_ComfyUI/resolve/main/split_files/diffusion_models/qwen_image_2512_fp8_e4m3fn.safetensors",
       "desc": "主扩散模型权重（fp8 e4m3fn 量化）",
-      "size": 0,
+      "size": 20430679144,
       "target": "diffusion_models/qwen_image_2512_fp8_e4m3fn.safetensors",
-      "sha256sum": ""
+      "sha256sum": "5dc80554d5d83390046a2f4a94ece06afb7700bf7b0aaf8bde9769793875876b"
     },
     {
       "url": "https://hf-mirror.com/Comfy-Org/Qwen-Image_ComfyUI/resolve/main/split_files/text_encoders/qwen_2.5_vl_7b_fp8_scaled.safetensors",
       "desc": "文本编码器（Qwen2.5-VL-7B，fp8 缩放）",
-      "size": 0,
+      "size": 9384670680,
       "target": "text_encoders/qwen_2.5_vl_7b_fp8_scaled.safetensors",
-      "sha256sum": ""
+      "sha256sum": "cb5636d852a0ea6a9075ab1bef496c0db7aef13c02350571e388aea959c5c0b4"
     },
     {
       "url": "https://hf-mirror.com/Comfy-Org/Qwen-Image_ComfyUI/resolve/main/split_files/vae/qwen_image_vae.safetensors",
       "desc": "VAE 自编码器",
-      "size": 0,
+      "size": 253806246,
       "target": "vae/qwen_image_vae.safetensors",
-      "sha256sum": ""
+      "sha256sum": "a70580f0213e67967ee9c95f05bb400e8fb08307e017a924bf3441223e023d1f"
     },
     {
       "url": "https://hf-mirror.com/Qwen/Qwen2.5-VL-7B-Instruct/resolve/main/vocab.json",
       "desc": "Qwen2.5-VL 分词器词表（BPE，server 启动校验必需）",
-      "size": 0,
+      "size": 1380346,
       "target": "tokenizers/qwen25_tokenizer/vocab.json",
-      "sha256sum": ""
+      "sha256sum": "7c8bf40cdef5b6c0a9f561bb59fb2a333d2d79b074a8c5203e1be7c63d140864"
     },
     {
       "url": "https://hf-mirror.com/Qwen/Qwen2.5-VL-7B-Instruct/resolve/main/merges.txt",
       "desc": "Qwen2.5-VL 分词器合并规则（BPE，server 启动校验必需）",
-      "size": 0,
+      "size": 1671839,
       "target": "tokenizers/qwen25_tokenizer/merges.txt",
-      "sha256sum": ""
+      "sha256sum": "599bab54075088774b1733fde865d5bd747cbcc7a547c5bc12610e874e26f5e3"
     },
     {
       "url": "https://hf-mirror.com/Qwen/Qwen2.5-VL-7B-Instruct/resolve/main/tokenizer_config.json",
       "desc": "Qwen2.5-VL 分词器配置（含 special tokens，server 启动校验必需）",
-      "size": 0,
+      "size": 5702,
       "target": "tokenizers/qwen25_tokenizer/tokenizer_config.json",
-      "sha256sum": ""
+      "sha256sum": "4abd3520120e266da84c0864fee064d1fb10806f02225911a47253dd38dc5f56"
     },
     {
       "url": "https://hf-mirror.com/lightx2v/Qwen-Image-2512-Lightning/resolve/main/Qwen-Image-2512-Lightning-4steps-V1.0-fp32.safetensors",
       "desc": "Lightning 加速 LoRA（4 步，fp32）",
-      "size": 0,
+      "size": 1698951104,
       "target": "loras/Qwen-Image-2512-Lightning-4steps-V1.0-fp32.safetensors",
-      "sha256sum": ""
+      "sha256sum": "ad12117461cb41e2ea637fec8df6392ce8e8550c47fbe2b829ed3deb98262066"
     }
   ]
 }

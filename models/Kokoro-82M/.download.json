@@ -6,70 +6,70 @@
       "desc": "主模型权重",
       "size": 327212226,
       "target": "kokoro-v1_0.pth",
-      "sha256sum": ""
+      "sha256sum": "496dba118d1a58f5f3db2efc88dbdc216e0483fc89fe6e47ee1f2c53f18ad1e4"
     },
     {
       "url": "https://hf-mirror.com/hexgrad/Kokoro-82M/resolve/main/config.json",
       "desc": "模型配置",
       "size": 2351,
       "target": "config.json",
-      "sha256sum": ""
+      "sha256sum": "5abb01e2403b072bf03d04fde160443e209d7a0dad49a423be15196b9b43c17f"
     },
     {
       "url": "https://hf-mirror.com/hexgrad/Kokoro-82M/resolve/main/voices/zf_xiaobei.pt",
       "desc": "音色：zf_xiaobei",
-      "size": 523000,
+      "size": 523435,
       "target": "voices/zf_xiaobei.pt",
-      "sha256sum": ""
+      "sha256sum": "9b76be63dab4f4f96962030acc0126a9aee9728608fbbe115e2b58a2bd504df6"
     },
     {
       "url": "https://hf-mirror.com/hexgrad/Kokoro-82M/resolve/main/voices/zf_xiaoni.pt",
       "desc": "音色：zf_xiaoni",
-      "size": 523000,
+      "size": 523430,
       "target": "voices/zf_xiaoni.pt",
-      "sha256sum": ""
+      "sha256sum": "95b49f169bf1640f4f43c25e13daa39f7b98d15d00823e83ef5c14b3ced59e49"
     },
     {
       "url": "https://hf-mirror.com/hexgrad/Kokoro-82M/resolve/main/voices/zf_xiaoxiao.pt",
       "desc": "音色：zf_xiaoxiao",
-      "size": 523000,
+      "size": 523440,
       "target": "voices/zf_xiaoxiao.pt",
-      "sha256sum": ""
+      "sha256sum": "cfaf6f2ded1ee56f1ff94fcd2b0e6cdf32e5b794bdc05b44e7439d44aef5887c"
     },
     {
       "url": "https://hf-mirror.com/hexgrad/Kokoro-82M/resolve/main/voices/zf_xiaoyi.pt",
       "desc": "音色：zf_xiaoyi",
-      "size": 523000,
+      "size": 523430,
       "target": "voices/zf_xiaoyi.pt",
-      "sha256sum": ""
+      "sha256sum": "b5235dbaeef85a4c613bf78af9a88ff63c25bac5f26ba77e36186d8b7ebf05e2"
     },
     {
       "url": "https://hf-mirror.com/hexgrad/Kokoro-82M/resolve/main/voices/zm_yunjian.pt",
       "desc": "音色：zm_yunjian",
-      "size": 523000,
+      "size": 523435,
       "target": "voices/zm_yunjian.pt",
-      "sha256sum": ""
+      "sha256sum": "76cbf8bad35901d011d9628a2fdceb7b4f1f127e7a3269cb393b3941eb7fc417"
     },
     {
       "url": "https://hf-mirror.com/hexgrad/Kokoro-82M/resolve/main/voices/zm_yunxi.pt",
       "desc": "音色：zm_yunxi",
-      "size": 523000,
+      "size": 523425,
       "target": "voices/zm_yunxi.pt",
-      "sha256sum": ""
+      "sha256sum": "dbe6e1ce7c3dbaf2f5667432947b638b1c6831ccbe154c4610dbcc44f431e27b"
     },
     {
       "url": "https://hf-mirror.com/hexgrad/Kokoro-82M/resolve/main/voices/zm_yunxia.pt",
       "desc": "音色：zm_yunxia",
-      "size": 523000,
+      "size": 523430,
       "target": "voices/zm_yunxia.pt",
-      "sha256sum": ""
+      "sha256sum": "bb2b03b08e84d64e1214440ce3b624987fac177f2eeb5bab8571799a3d980acd"
     },
     {
       "url": "https://hf-mirror.com/hexgrad/Kokoro-82M/resolve/main/voices/zm_yunyang.pt",
       "desc": "音色：zm_yunyang",
-      "size": 523000,
+      "size": 523435,
       "target": "voices/zm_yunyang.pt",
-      "sha256sum": ""
+      "sha256sum": "5238ac22e0c7f8b6cdd2eddd6e444b8a700b73c4674d9a047d59a94ff96379a2"
     }
   ]
 }

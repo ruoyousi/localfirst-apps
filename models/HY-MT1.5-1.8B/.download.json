@@ -7,7 +7,7 @@
       "desc": "混元 MT1.5 1.8B 翻译模型（Q8_0 量化，约 1.78 GB）",
       "size": 1908528288,
       "target": "HY-MT1.5-1.8B-Q8_0.gguf",
-      "sha256sum": ""
+      "sha256sum": "6789b06d0902f2f5312c0e1703d56ccbddfcfb6c653d22519b7c720f7db9a98e"
     }
   ]
 }

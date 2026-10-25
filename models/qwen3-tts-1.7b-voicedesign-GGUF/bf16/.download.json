@@ -6,7 +6,7 @@
       "desc": "官方 bf16 无损版（备选，本地未下载，需要时面板一键拉取）：audio.cpp-gguf 仓库原生格式，显存约 6.5GB、RTF 0.43。显存充裕或追求音质时用。注意：官方同目录 q8_0.gguf 是漏刷新的旧格式，不要下载。",
       "size": 4179100352,
       "target": "qwen3-tts-12hz-1.7b-voicedesign-bf16.gguf",
-      "sha256sum": ""
+      "sha256sum": "f12c79e8c492f006b04f5ba823bebe512c9d46e13a7837081f1d34803b4bac0e"
     }
   ]
 }

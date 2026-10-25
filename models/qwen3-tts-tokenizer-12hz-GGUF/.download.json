@@ -6,7 +6,7 @@
       "desc": "12Hz 语音编解码器（GGUF 格式）—— llama.cpp 生态转换版，358MB",
       "size": 358453280,
       "target": "qwen3-tts-tokenizer-12hz.gguf",
-      "sha256sum": ""
+      "sha256sum": "70dc95dbfdd9aa5d9d406236ff771d061bf17b0cda02a72513953355606e719b"
     }
   ]
 }

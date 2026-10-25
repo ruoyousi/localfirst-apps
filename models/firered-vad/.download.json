@@ -6,14 +6,14 @@
       "desc": "离线 VAD",
       "size": 2368640,
       "target": "firered-vad-f32.gguf",
-      "sha256sum": ""
+      "sha256sum": "f3019a3b9f8343aa998110bf31d04f086ee75da00f60768c396d1583e3993968"
     },
     {
       "url": "https://hf-mirror.com/audio-cpp/audio.cpp-gguf/resolve/main/FireRedVAD-GGUF/firered-stream-vad-f32.gguf",
       "desc": "流式 VAD",
       "size": 2285056,
       "target": "firered-stream-vad-f32.gguf",
-      "sha256sum": ""
+      "sha256sum": "c77073c4bebd112a794ec10e71a70e0f74c78ffbe928f4dd79ce17bc19cf8e6a"
     }
   ]
 }
