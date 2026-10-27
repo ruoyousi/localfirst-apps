@@ -6,9 +6,9 @@
     {
       "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/TableBuddy.zip",
       "desc": "应用包",
-      "size": 5843497,
+      "size": 5843459,
       "target": "TableBuddy.zip",
-      "sha256sum": "c2dfd0559ad149fd219c3dcaf4bbc2ebb42c644424b5bda574ea12a950265ae5"
+      "sha256sum": "4905b27f75e45e9323c40f169e84dd08f2667e1bb1eb912ef0fa7f773122e516"
     }
   ]
 }

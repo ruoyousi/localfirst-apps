@@ -6,9 +6,9 @@
     {
       "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/Storagering.zip",
       "desc": "应用包",
-      "size": 4013364,
+      "size": 4013170,
       "target": "Storagering.zip",
-      "sha256sum": "82e925969dbfffcab28e10f91498ee2fb5276bd2c9bba5a1fd69aced8ab7fa8d"
+      "sha256sum": "d51b0b980bc88f8e7e46078af3ac8af03cde21edaf08d58067f40e9cc334ba6d"
     }
   ]
 }

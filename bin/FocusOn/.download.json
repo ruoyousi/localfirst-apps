@@ -6,9 +6,9 @@
     {
       "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/FocusOn.zip",
       "desc": "应用包",
-      "size": 8442284,
+      "size": 8442037,
       "target": "FocusOn.zip",
-      "sha256sum": "39bb872fd881caed4e402c96049a6b9da50850b45eaa22141abe27f997513372"
+      "sha256sum": "4e6d38622de7ceec078d940f401e9fb33231c5b94cf0674bee58da7652dc008b"
     }
   ]
 }

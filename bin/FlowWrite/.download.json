@@ -6,9 +6,9 @@
     {
       "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/FlowWrite.zip",
       "desc": "应用包",
-      "size": 3502323,
+      "size": 3502068,
       "target": "FlowWrite.zip",
-      "sha256sum": "b1757d016d92c9b238c93818495e7759aeb0474658eeae02e2896c3b4be22776"
+      "sha256sum": "fc12c51beeaf8a58436717b6a59b4dc76dc91fcbce335d8ec198e086345a7e5f"
     }
   ]
 }

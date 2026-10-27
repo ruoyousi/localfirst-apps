@@ -4,11 +4,18 @@
   "version": "1.0.0",
   "files": [
     {
+      "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/cuda13-runtime.zip",
+      "desc": "CUDA 13 共享运行时（cudart/cublas/nvrtc 等，脱离系统 Toolkit）",
+      "size": 477640633,
+      "target": "cuda13-runtime.zip",
+      "sha256sum": "056c5525f6df39d3904bb912c7a45920fd63c5f1e19c58cd136a125b9247c49e"
+    },
+    {
       "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/OffOCR.zip",
       "desc": "应用包",
-      "size": 87528657,
+      "size": 87528355,
       "target": "OffOCR.zip",
-      "sha256sum": "d1d8a8483d17235d82e3bd687c84e28cc1e57e28269bbbc3b450de1cd0eb0cca"
+      "sha256sum": "8308be83006f2a767195949945535ae285b09a93ea8b807ef34ce644a6716c97"
     }
   ]
 }

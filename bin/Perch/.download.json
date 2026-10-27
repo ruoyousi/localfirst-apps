@@ -1,0 +1,14 @@
+{
+  "title": "Perch —— 本地优先 AI 角色聊天桌面助手",
+  "type": "app",
+  "version": "1.0.0",
+  "files": [
+    {
+      "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/Perch.zip",
+      "desc": "应用包（含 Perch 本体、数据库、cuda13/vulkan 语音服务定义）",
+      "size": 32693898,
+      "target": "Perch.zip",
+      "sha256sum": "5a4ff041c62761be86b2089e63d949ea5a8156221b964ad03d3107332508b483"
+    }
+  ]
+}

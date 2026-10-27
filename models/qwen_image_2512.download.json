@@ -2,11 +2,11 @@
   "title": "Qwen-Image 2512（文生图）",
   "files": [
     {
-      "url": "https://hf-mirror.com/Comfy-Org/Qwen-Image_ComfyUI/resolve/main/split_files/diffusion_models/qwen_image_2512_fp8_e4m3fn.safetensors",
-      "desc": "主扩散模型权重（fp8 e4m3fn 量化）",
-      "size": 20430679144,
-      "target": "diffusion_models/qwen_image_2512_fp8_e4m3fn.safetensors",
-      "sha256sum": "5dc80554d5d83390046a2f4a94ece06afb7700bf7b0aaf8bde9769793875876b"
+      "url": "https://hf-mirror.com/Winnougan/Qwen-Image-INT8/resolve/main/qwen_image_2512_int8_convrot.safetensors",
+      "desc": "主扩散模型权重（int8 convrot 量化）",
+      "size": 20533609455,
+      "target": "diffusion_models/qwen_image_2512_int8_convrot.safetensors",
+      "sha256sum": "af5ff38ca2b59ade4c13aa046dc39acae78ac0fe8cb85d8f424a30150b954260"
     },
     {
       "url": "https://hf-mirror.com/Comfy-Org/Qwen-Image_ComfyUI/resolve/main/split_files/text_encoders/qwen_2.5_vl_7b_fp8_scaled.safetensors",

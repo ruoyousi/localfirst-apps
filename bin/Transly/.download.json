@@ -6,9 +6,9 @@
     {
       "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/Transly.zip",
       "desc": "应用包",
-      "size": 8900565,
+      "size": 8940583,
       "target": "Transly.zip",
-      "sha256sum": "a49678bfe9a29c2289d492131cbc1babcb158258383df5177ae7d0d8af203d04"
+      "sha256sum": "a45d1727fd09132e8b94faec8627a740f54e20f407568570b36254f85abe3284"
     }
   ]
 }
