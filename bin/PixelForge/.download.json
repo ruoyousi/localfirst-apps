@@ -1,7 +1,7 @@
 {
   "title": "PixelForge 图片 AI 编辑应用",
   "type": "app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "files": [
     {
       "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/cuda13-runtime.zip",
@@ -13,9 +13,9 @@
     {
       "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/PixelForge.zip",
       "desc": "应用包",
-      "size": 15818443,
+      "size": 16088832,
       "target": "PixelForge.zip",
-      "sha256sum": "02f47b8b91f6ed2e11c8e7f4549ee0efca02fcb41a2a8b6ab7d4eea67b0d6ddb"
+      "sha256sum": "76f6899b96a86aad5cd0258f59b598a30d3aa054ff410276dbd80b167af291e8"
     }
   ]
 }

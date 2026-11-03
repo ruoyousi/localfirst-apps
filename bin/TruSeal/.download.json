@@ -1,0 +1,14 @@
+{
+  "title": "TruSeal（数字资产签名）应用",
+  "type": "app",
+  "version": "0.1.0",
+  "files": [
+    {
+      "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/TruSeal.zip",
+      "desc": "应用包",
+      "size": 14949079,
+      "target": "TruSeal.zip",
+      "sha256sum": "f2de7a76d2e6362cbf3c1cb58b8244a279bbd7f111cac32b2d4ecb84fcbbccdb"
+    }
+  ]
+}

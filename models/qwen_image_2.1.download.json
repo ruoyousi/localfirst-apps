@@ -1,0 +1,47 @@
+{
+  "title": "Qwen-Image 2.1（文生图）",
+  "files": [
+    {
+      "url": "https://hf-mirror.com/abenzerps/Qwen-Image-2.1-Uncensored-Quantized/resolve/main/qwen-image-2.1-UC-fp8.safetensors",
+      "desc": "主扩散模型权重（fp8 量化，Uncensored 版）",
+      "size": 7116818183,
+      "target": "diffusion_models/qwen-image-2.1-UC-fp8.safetensors",
+      "sha256sum": "877b77290339986bca8f771aead381c7a5777347c27d252bbaa915f76667ab0b"
+    },
+    {
+      "url": "https://hf-mirror.com/abenzerps/Qwen-Image-2.1-Uncensored-Quantized/resolve/main/text_encoders/qwen3vl_8b_int8_convrot.safetensors",
+      "desc": "文本编码器（Qwen3-VL-8B，int8 convrot 量化，9.35GB，建议 offload 到内存）",
+      "size": 9350798360,
+      "target": "text_encoders/qwen3vl_8b_int8_convrot.safetensors",
+      "sha256sum": "8bfd0f6e12abf2d2d697ecc888e5e90b0d6741d6708f05799f53afa560452e8f"
+    },
+    {
+      "url": "https://hf-mirror.com/abenzerps/Qwen-Image-2.1-Uncensored-Quantized/resolve/main/vae/qwen_image_2.1_vae_bf16.safetensors",
+      "desc": "VAE 自编码器（bf16）",
+      "size": 675509688,
+      "target": "vae/qwen_image_2.1_vae_bf16.safetensors",
+      "sha256sum": "bb21f7473051e1ac368515dd3f2e15cd44d7a11748ee8823e1ddca3e4876b7c9"
+    },
+    {
+      "url": "https://hf-mirror.com/Qwen/Qwen2.5-VL-7B-Instruct/resolve/main/vocab.json",
+      "desc": "Qwen2.5-VL 分词器词表（BPE，server 启动校验必需）",
+      "size": 1380346,
+      "target": "tokenizers/qwen25_tokenizer/vocab.json",
+      "sha256sum": "7c8bf40cdef5b6c0a9f561bb59fb2a333d2d79b074a8c5203e1be7c63d140864"
+    },
+    {
+      "url": "https://hf-mirror.com/Qwen/Qwen2.5-VL-7B-Instruct/resolve/main/merges.txt",
+      "desc": "Qwen2.5-VL 分词器合并规则（BPE，server 启动校验必需）",
+      "size": 1671839,
+      "target": "tokenizers/qwen25_tokenizer/merges.txt",
+      "sha256sum": "599bab54075088774b1733fde865d5bd747cbcc7a547c5bc12610e874e26f5e3"
+    },
+    {
+      "url": "https://hf-mirror.com/Qwen/Qwen2.5-VL-7B-Instruct/resolve/main/tokenizer_config.json",
+      "desc": "Qwen2.5-VL 分词器配置（含 special tokens，server 启动校验必需）",
+      "size": 5702,
+      "target": "tokenizers/qwen25_tokenizer/tokenizer_config.json",
+      "sha256sum": "4abd3520120e266da84c0864fee064d1fb10806f02225911a47253dd38dc5f56"
+    }
+  ]
+}

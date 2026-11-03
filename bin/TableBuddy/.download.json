@@ -1,14 +1,14 @@
 {
   "title": "表伴（TableBuddy）应用",
   "type": "app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "files": [
     {
       "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/TableBuddy.zip",
       "desc": "应用包",
-      "size": 5843459,
+      "size": 6004996,
       "target": "TableBuddy.zip",
-      "sha256sum": "4905b27f75e45e9323c40f169e84dd08f2667e1bb1eb912ef0fa7f773122e516"
+      "sha256sum": "81087afdcf20b512fef01dad422f7f82ffe879ac73cd5008af072c3bbafc1294"
     }
   ]
 }
