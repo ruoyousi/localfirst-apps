@@ -59,7 +59,6 @@ localfirst-apps/
 ├── control-panel.exe          # 统一控制台（双击运行）
 ├── config.ini                 # 全局配置（[github] 加速代理 GH_PROXY / 镜像仓库 repo、backup-repo）
 ├── bin/                       # 应用 / 服务 / 运行时（按子目录组织）
-│   ├── DataChart/             # 数据可视化工具
 │   ├── Lovo/                  # 语音工具箱（含 audio.cpp 服务配置）
 │   ├── Perch/                 # 栖心 AI 角色聊天（含 audio.cpp 服务配置）
 │   ├── PixelForge/            # 图片 AI 编辑（含推理服务）
@@ -81,7 +80,6 @@ localfirst-apps/
 
 | 应用 | 说明 | 入口程序 | 标签 |
 | --- | --- | --- | --- |
-| **DataChart** | 数据可视化工具 | `data-chart.exe` | 免费 · 离线 · Windows |
 | **合稿易 DocMerger** | 合稿易 DocMerger —— 本地文档合稿工具（Java 原生 exe，GraalVM Native Image）：多文档合并 / 内容替换 / 一键成稿，支持 Word 文档，全程离线。 | `DocMerger.exe` | 离线 · 创作 · Windows |
 | **心流写作 FlowWrite** | 心流写作 FlowWrite —— 本地优先的 AI 小说写作工作台：项目 / 大纲 / 章节 / 角色 / 世界观设定 / 章节版本与记忆库，长篇创作全程离线。 | `flowwrite.exe` | AI · 离线 · 创作 · Windows |
 | **个人工作台 FocusOn** | 个人工作台 FocusOn —— 个体工作方法论工具：四象限待办 / 记账 / 日历提醒 / Markdown 笔记 / 习惯打卡 / 番茄专注 / 履历 / 人脉 / 健康记录 / AI 助手，沉淀属于自己的工作节奏，全程离线。 | `FocusOn.exe` | AI · 离线 · 数据 · Windows |
@@ -181,7 +179,6 @@ localfirst-apps/
 - 离线文档解析-OffOCR
 - 合稿易-DocMerger
 - AI绘画提示词助手-画语
-- 数据可视化工具-DataChart
 - TableBuddy-表伴
 - JianQi-简企（开发中）
 - Perch-栖心（开发中）
