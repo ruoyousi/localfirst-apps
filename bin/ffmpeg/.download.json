@@ -1,0 +1,14 @@
+{
+  "title": "FFmpeg 多媒体处理运行时（共享工具）",
+  "type": "app",
+  "version": "1.0.0",
+  "files": [
+    {
+      "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/ffmpeg.zip",
+      "desc": "FFmpeg 共享运行时（ffmpeg.exe + 许可证/说明，其他服务依赖）",
+      "size": 38898228,
+      "target": "ffmpeg.zip",
+      "sha256sum": "cc55c6adcfbd50c14d9e276f6cf72e85dcba62540b6cb9d8fdd32b9fab3e1a2a"
+    }
+  ]
+}

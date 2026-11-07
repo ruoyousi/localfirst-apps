@@ -1,21 +1,21 @@
 {
   "title": "离线文档解析（OffOCR）应用",
   "type": "app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "files": [
     {
       "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/cuda13-runtime.zip",
       "desc": "CUDA 13 共享运行时（cudart/cublas/nvrtc 等，脱离系统 Toolkit）",
-      "size": 477640633,
+      "size": 534599593,
       "target": "cuda13-runtime.zip",
-      "sha256sum": "056c5525f6df39d3904bb912c7a45920fd63c5f1e19c58cd136a125b9247c49e"
+      "sha256sum": "51135d8df20fc00a2351e8ec28f8f3523adcbb61e337fb340694f807390a26f6"
     },
     {
       "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/OffOCR.zip",
       "desc": "应用包",
-      "size": 87528355,
+      "size": 87761922,
       "target": "OffOCR.zip",
-      "sha256sum": "8308be83006f2a767195949945535ae285b09a93ea8b807ef34ce644a6716c97"
+      "sha256sum": "56c651abfdcff6221ab8b7b514b1c55ca34f8690bd9720652ca46d33a54a91ff"
     }
   ]
 }

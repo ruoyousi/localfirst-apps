@@ -42,6 +42,14 @@
       "size": 5702,
       "target": "tokenizers/qwen25_tokenizer/tokenizer_config.json",
       "sha256sum": "4abd3520120e266da84c0864fee064d1fb10806f02225911a47253dd38dc5f56"
+    },
+    {
+      "url": "https://hf-mirror.com/lightx2v/Qwen-Image-2.1-Lightning/resolve/main/pytorch_lora_weights.safetensors",
+      "backup-url": "https://www.modelscope.cn/models/lightx2v/Qwen-Image-2.1-Lightning/resolve/main/pytorch_lora_weights.safetensors",
+      "desc": "Qwen-Image 2.1 加速 LoRA 权重（Lightning 版，加快出图）",
+      "size": 67144280,
+      "target": "loras/Qwen-Image-2.1-Lightning.safetensors",
+      "sha256sum": "53c69320d4163da51032f90275074028cb098556039c72b45f8dce9f0f9e34a3"
     }
   ]
 }

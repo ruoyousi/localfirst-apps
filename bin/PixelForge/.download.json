@@ -1,21 +1,21 @@
 {
   "title": "PixelForge 图片 AI 编辑应用",
   "type": "app",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "files": [
     {
       "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/cuda13-runtime.zip",
       "desc": "CUDA 13 共享运行时（cudart/cublas/nvrtc 等，脱离系统 Toolkit）",
-      "size": 477640633,
+      "size": 534599593,
       "target": "cuda13-runtime.zip",
-      "sha256sum": "056c5525f6df39d3904bb912c7a45920fd63c5f1e19c58cd136a125b9247c49e"
+      "sha256sum": "51135d8df20fc00a2351e8ec28f8f3523adcbb61e337fb340694f807390a26f6"
     },
     {
       "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/PixelForge.zip",
       "desc": "应用包",
-      "size": 16088832,
+      "size": 16148416,
       "target": "PixelForge.zip",
-      "sha256sum": "76f6899b96a86aad5cd0258f59b598a30d3aa054ff410276dbd80b167af291e8"
+      "sha256sum": "11dbee4a57e456c2074a478db605c5f3b1476bccd3e79a26015609c28443ef2e"
     }
   ]
 }
