@@ -1,5 +1,6 @@
 {
   "title": "Qwen3-ASR 1.7B（语音识别）",
+  "license": "Apache-2.0",
   "files": [
     {
       "url": "https://modelscope.cn/models/Qwen/Qwen3-ASR-1.7B/resolve/master/README.md",

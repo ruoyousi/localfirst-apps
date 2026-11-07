@@ -1,6 +1,7 @@
 {
   "title": "HY-MT1.5-1.8B（混元翻译模型）",
   "type": "model",
+  "license": "Tencent HY Community License（腾讯混元社区许可，附地域与使用限制）",
   "files": [
     {
       "url": "https://hf-mirror.com/tencent/HY-MT1.5-1.8B-GGUF/resolve/main/HY-MT1.5-1.8B-Q8_0.gguf",

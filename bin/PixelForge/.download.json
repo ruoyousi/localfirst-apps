@@ -2,6 +2,7 @@
   "title": "PixelForge 图片 AI 编辑应用",
   "type": "app",
   "version": "1.0.2",
+  "license": "Proprietary（自有软件，闭源商业许可）",
   "files": [
     {
       "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/cuda13-runtime.zip",

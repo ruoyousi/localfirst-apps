@@ -1,5 +1,6 @@
 {
   "title": "Qwen-Image 2512（文生图）",
+  "license": "Apache-2.0（Qwen-Image 2512 及文本编码器/VAE/LoRA）",
   "files": [
     {
       "url": "https://hf-mirror.com/Winnougan/Qwen-Image-INT8/resolve/main/qwen_image_2512_int8_convrot.safetensors",

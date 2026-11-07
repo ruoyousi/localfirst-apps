@@ -1,5 +1,6 @@
 {
   "title": "Qwen-Image 2.1（文生图）",
+  "license": "Qwen Research License（Qwen-Image 2.1，仅限研究/评估，商用需另行授权）, Apache-2.0（文本编码器/VAE/加速 LoRA）",
   "files": [
     {
       "url": "https://hf-mirror.com/abenzerps/Qwen-Image-2.1-Uncensored-Quantized/resolve/main/qwen-image-2.1-UC-fp8.safetensors",

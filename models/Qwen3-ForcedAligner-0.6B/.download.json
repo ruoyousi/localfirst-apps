@@ -1,5 +1,6 @@
 {
   "title": "Qwen3-ForcedAligner 0.6B（强制对齐）",
+  "license": "Apache-2.0",
   "files": [
     {
       "url": "https://modelscope.cn/models/Qwen/Qwen3-ForcedAligner-0.6B/resolve/master/README.md",

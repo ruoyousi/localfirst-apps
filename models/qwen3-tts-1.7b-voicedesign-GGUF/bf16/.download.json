@@ -1,5 +1,6 @@
 {
   "title": "Qwen3-TTS 1.7B VoiceDesign — bf16 无损（备选，未下载）",
+  "license": "Apache-2.0（Qwen3-TTS 官方权重，GGUF 转换版）",
   "files": [
     {
       "url": "https://hf-mirror.com/audio-cpp/audio.cpp-gguf/resolve/main/Qwen3-TTS-12Hz-1.7B-VoiceDesign-GGUF/qwen3-tts-12hz-1.7b-voicedesign-bf16.gguf",

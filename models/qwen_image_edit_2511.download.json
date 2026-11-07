@@ -1,5 +1,6 @@
 {
   "title": "Qwen-Image-Edit 2511（图生图/编辑）",
+  "license": "Apache-2.0（Qwen-Image-Edit 2511 及文本编码器/VAE/LoRA）",
   "files": [
     {
       "url": "https://hf-mirror.com/Comfy-Org/Qwen-Image-Edit_ComfyUI/resolve/main/split_files/diffusion_models/qwen_image_edit_2511_int8_convrot.safetensors",

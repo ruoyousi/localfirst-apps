@@ -2,6 +2,7 @@
   "title": "TruSeal（数字资产签名）应用",
   "type": "app",
   "version": "0.1.0",
+  "license": "Proprietary（自有软件，闭源商业许可）",
   "files": [
     {
       "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/TruSeal.zip",

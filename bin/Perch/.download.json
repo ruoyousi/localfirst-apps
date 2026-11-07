@@ -2,6 +2,7 @@
   "title": "Perch —— 本地优先 AI 角色聊天桌面助手",
   "type": "app",
   "version": "1.0.0",
+  "license": "Proprietary（自有软件，闭源商业许可）",
   "files": [
     {
       "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/Perch.zip",

@@ -1,7 +1,8 @@
 {
   "title": "audio.cpp CUDA13 推理运行时",
-  "type": "server",
+  "type": "runtime",
   "version": "1.0.0",
+  "license": "Apache-2.0（audio.cpp）, NVIDIA CUDA Toolkit EULA（CUDA 运行时组件）",
   "files": [
     {
       "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/cuda13-runtime.zip",

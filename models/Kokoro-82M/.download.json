@@ -1,5 +1,6 @@
 {
   "title": "Kokoro 82M（轻量语音合成）",
+  "license": "Apache-2.0",
   "files": [
     {
       "url": "https://hf-mirror.com/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth",

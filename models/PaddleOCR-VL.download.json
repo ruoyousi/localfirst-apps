@@ -1,6 +1,7 @@
 {
   "title": "PaddleOCR-VL（离线 OCR 文字识别）",
   "type": "model",
+  "license": "Apache-2.0",
   "files": [
     {
       "url": "https://modelscope.cn/api/v1/models/PaddlePaddle/PaddleOCR-VL/repo?Revision=master&FilePath=config.json",

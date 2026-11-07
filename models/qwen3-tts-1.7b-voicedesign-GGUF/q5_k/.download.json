@@ -1,5 +1,6 @@
 {
   "title": "Qwen3-TTS 1.7B VoiceDesign — q5_k 量化（当前默认）",
+  "license": "Apache-2.0（Qwen3-TTS 官方权重，GGUF 量化版）",
   "files": [
     {
       "url": "https://modelscope.cn/models/yxming99/qwen3-tts-1.7b-voicedesign-gguf/resolve/master/qwen3-tts-12hz-1.7b-voicedesign-q5_k.gguf",

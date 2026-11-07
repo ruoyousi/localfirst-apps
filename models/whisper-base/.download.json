@@ -1,5 +1,6 @@
 {
   "title": "Whisper Base（语音识别，audio.cpp 格式）",
+  "license": "MIT（OpenAI Whisper，GGUF 转换版）",
   "files": [
     {
       "url": "https://modelscope.cn/models/yxming99/whisper-base-audiocpp-gguf/resolve/master/model.gguf",

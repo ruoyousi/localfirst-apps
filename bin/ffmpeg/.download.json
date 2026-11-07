@@ -1,7 +1,8 @@
 {
   "title": "FFmpeg 多媒体处理运行时（共享工具）",
-  "type": "app",
+  "type": "tool",
   "version": "1.0.0",
+  "license": "GPL-3.0（gyan.dev 官方构建）",
   "files": [
     {
       "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/ffmpeg.zip",

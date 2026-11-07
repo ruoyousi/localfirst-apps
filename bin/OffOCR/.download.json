@@ -2,6 +2,7 @@
   "title": "离线文档解析（OffOCR）应用",
   "type": "app",
   "version": "1.0.1",
+  "license": "Proprietary（自有软件，闭源商业许可）, BSD-3-Clause（PDFium 渲染库）",
   "files": [
     {
       "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/cuda13-runtime.zip",
