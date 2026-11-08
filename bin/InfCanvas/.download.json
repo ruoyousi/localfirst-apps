@@ -1,0 +1,15 @@
+{
+  "title": "InfCanvas 应用",
+  "type": "app",
+  "version": "0.1.0",
+  "license": "Freeware（免费软件）",
+  "files": [
+    {
+      "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/InfCanvas.zip",
+      "desc": "应用包",
+      "size": 9863090,
+      "target": "InfCanvas.zip",
+      "sha256sum": "793dab036d1ce0cd32d154d6a3675c8f56bee8ddd14b9111c35f5e4c05b8eb3d"
+    }
+  ]
+}
