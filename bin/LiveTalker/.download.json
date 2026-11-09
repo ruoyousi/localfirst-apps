@@ -7,9 +7,9 @@
     {
       "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/LiveTalker.zip",
       "desc": "应用包",
-      "size": 17253248,
+      "size": 17253287,
       "target": "LiveTalker.zip",
-      "sha256sum": "143bec2047af19706dafdfd8991644ef59996131e56c16780e920d01ce643de2"
+      "sha256sum": "4b0a493e7acdcfc18558412f407c890c6ebe32c4ffbf39710916e269fb544641"
     }
   ]
 }
