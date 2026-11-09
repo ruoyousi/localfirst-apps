@@ -6,10 +6,38 @@
   "files": [
     {
       "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/LiveTalker.zip",
-      "desc": "应用包",
+      "desc": "应用包（含 UI / 推理服务 / CLI 与服务定义）",
       "size": 17253294,
       "target": "LiveTalker.zip",
       "sha256sum": "ee422cf5e4fdeec3517810df6457c341bccf647e30a37ee488098f4f4c2a8623"
+    },
+    {
+      "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/cuda13-runtime.zip",
+      "desc": "CUDA 13 运行时（推理服务依赖，免装系统 Toolkit）",
+      "size": 534599593,
+      "target": "cuda13-runtime.zip",
+      "sha256sum": "51135d8df20fc00a2351e8ec28f8f3523adcbb61e337fb340694f807390a26f6"
+    },
+    {
+      "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/cudnn9-runtime.zip",
+      "desc": "cuDNN 9 运行时（推理服务依赖）",
+      "size": 303869617,
+      "target": "cudnn9-runtime.zip",
+      "sha256sum": "a3356978c6e46c51083c2cb861a85118b1e860c1b861c3b0ca26ba4621d681e5"
+    },
+    {
+      "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/onnx-runtime.zip",
+      "desc": "ONNX 运行时（推理服务依赖）",
+      "size": 159620706,
+      "target": "onnx-runtime.zip",
+      "sha256sum": "e6c185fa0620fc360506b1909fc63e703a37033e24b0cccae8d56dee94e49432"
+    },
+    {
+      "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/ffmpeg.zip",
+      "desc": "FFmpeg 共享运行时（视频合成依赖）",
+      "size": 38898228,
+      "target": "ffmpeg.zip",
+      "sha256sum": "cc55c6adcfbd50c14d9e276f6cf72e85dcba62540b6cb9d8fdd32b9fab3e1a2a"
     }
   ]
 }

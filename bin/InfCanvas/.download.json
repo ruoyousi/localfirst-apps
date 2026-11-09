@@ -10,6 +10,13 @@
       "size": 9872143,
       "target": "InfCanvas.zip",
       "sha256sum": "d03b5ef2bdc23176983f6809376c67bcb3b510e4f20f67808ab59f31fb062a55"
+    },
+    {
+      "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/ffmpeg.zip",
+      "desc": "FFmpeg 共享运行时（音频/视频节点处理依赖）",
+      "size": 38898228,
+      "target": "ffmpeg.zip",
+      "sha256sum": "cc55c6adcfbd50c14d9e276f6cf72e85dcba62540b6cb9d8fdd32b9fab3e1a2a"
     }
   ]
 }
