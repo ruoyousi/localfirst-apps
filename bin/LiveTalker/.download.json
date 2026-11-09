@@ -1,0 +1,15 @@
+{
+  "title": "LiveTalker 应用",
+  "type": "app",
+  "version": "0.1.0",
+  "license": "Freeware（免费软件）",
+  "files": [
+    {
+      "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/LiveTalker.zip",
+      "desc": "应用包",
+      "size": 17253248,
+      "target": "LiveTalker.zip",
+      "sha256sum": "143bec2047af19706dafdfd8991644ef59996131e56c16780e920d01ce643de2"
+    }
+  ]
+}
