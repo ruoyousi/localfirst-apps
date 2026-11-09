@@ -1,0 +1,96 @@
+{
+  "title": "Sonic（音频驱动人像动画）",
+  "type": "model",
+  "version": "2026-11-09",
+  "license": "other（上游开源项目许可证，含第三方组件额外限制，以原项目 LICENSE 为准）",
+  "files": [
+    {
+      "url": "https://modelscope.cn/models/yxming99/Sonic-ONNX/resolve/master/audio2bucket.onnx",
+      "backup-url": "https://www.modelscope.cn/api/v1/models/yxming99/Sonic-ONNX/repo?Revision=master&FilePath=audio2bucket.onnx",
+      "desc": "音频时长 / 分桶特征提取",
+      "size": 87054447,
+      "target": "audio2bucket.onnx",
+      "sha256sum": "ee7469fb22640e5e1fe86070ba414f364fe47beca2087ca0e6cfa5caf763fd39"
+    },
+    {
+      "url": "https://modelscope.cn/models/yxming99/Sonic-ONNX/resolve/master/audio2token.onnx",
+      "backup-url": "https://www.modelscope.cn/api/v1/models/yxming99/Sonic-ONNX/repo?Revision=master&FilePath=audio2token.onnx",
+      "desc": "音频特征到 token 的转换",
+      "size": 217208868,
+      "target": "audio2token.onnx",
+      "sha256sum": "c139661f420cf08be6c2ad08fcaace4579f3a9d6a4f201e4c04d5d2d16055857"
+    },
+    {
+      "url": "https://modelscope.cn/models/yxming99/Sonic-ONNX/resolve/master/clip_vision.onnx",
+      "backup-url": "https://www.modelscope.cn/api/v1/models/yxming99/Sonic-ONNX/repo?Revision=master&FilePath=clip_vision.onnx",
+      "desc": "参考图像视觉特征编码（计算图）",
+      "size": 705155,
+      "target": "clip_vision.onnx",
+      "sha256sum": "9f315bcbda8adb4acdfa762ee57ad7c43e6100e6b490cc303e369d7666bfb7e7"
+    },
+    {
+      "url": "https://modelscope.cn/models/yxming99/Sonic-ONNX/resolve/master/clip_vision.onnx.data",
+      "backup-url": "https://www.modelscope.cn/api/v1/models/yxming99/Sonic-ONNX/repo?Revision=master&FilePath=clip_vision.onnx.data",
+      "desc": "参考图像视觉特征编码的外置权重（须与同名 .onnx 放在同一目录）",
+      "size": 2528307200,
+      "target": "clip_vision.onnx.data",
+      "sha256sum": "b6d54ffbd636c64f54d1bd4f8e8496c572fddd7daf59c6ecac3b181def95b45b"
+    },
+    {
+      "url": "https://modelscope.cn/models/yxming99/Sonic-ONNX/resolve/master/rife.onnx",
+      "backup-url": "https://www.modelscope.cn/api/v1/models/yxming99/Sonic-ONNX/repo?Revision=master&FilePath=rife.onnx",
+      "desc": "视频帧间插值",
+      "size": 9212878,
+      "target": "rife.onnx",
+      "sha256sum": "d3a08739b25b1c7183b7aa99d56b68ea8b0079e2ce9afacca4ec525d30256aa0"
+    },
+    {
+      "url": "https://modelscope.cn/models/yxming99/Sonic-ONNX/resolve/master/sonic_unet.folded8.onnx",
+      "backup-url": "https://www.modelscope.cn/api/v1/models/yxming99/Sonic-ONNX/repo?Revision=master&FilePath=sonic_unet.folded8.onnx",
+      "desc": "主干扩散 UNet（计算图）",
+      "size": 5199517,
+      "target": "sonic_unet.folded8.onnx",
+      "sha256sum": "dd1459c499c00e002fd5081635757d09cb65bd956d7830c582a3566c970a0970"
+    },
+    {
+      "url": "https://modelscope.cn/models/yxming99/Sonic-ONNX/resolve/master/sonic_unet.folded8.onnx.data",
+      "backup-url": "https://www.modelscope.cn/api/v1/models/yxming99/Sonic-ONNX/repo?Revision=master&FilePath=sonic_unet.folded8.onnx.data",
+      "desc": "主干扩散 UNet 的外置权重（须与同名 .onnx 放在同一目录）",
+      "size": 3151482324,
+      "target": "sonic_unet.folded8.onnx.data",
+      "sha256sum": "17a3ba5a3bcc48f72adf94c468240e9511d82e0931c2370e2cce0482364b87f7"
+    },
+    {
+      "url": "https://modelscope.cn/models/yxming99/Sonic-ONNX/resolve/master/vae_decode.onnx",
+      "backup-url": "https://www.modelscope.cn/api/v1/models/yxming99/Sonic-ONNX/repo?Revision=master&FilePath=vae_decode.onnx",
+      "desc": "VAE 解码器",
+      "size": 254634494,
+      "target": "vae_decode.onnx",
+      "sha256sum": "4e476ce7903aab68a530540dccdc7b5e7d98e37ff10f8e7ff32cbfd3133b22fb"
+    },
+    {
+      "url": "https://modelscope.cn/models/yxming99/Sonic-ONNX/resolve/master/vae_encode.onnx",
+      "backup-url": "https://www.modelscope.cn/api/v1/models/yxming99/Sonic-ONNX/repo?Revision=master&FilePath=vae_encode.onnx",
+      "desc": "VAE 编码器",
+      "size": 136729269,
+      "target": "vae_encode.onnx",
+      "sha256sum": "b8d1cb71fd100d7abfc05ab6b979e9abd9ebdc87d521e8e6422a21902a73a442"
+    },
+    {
+      "url": "https://modelscope.cn/models/yxming99/Sonic-ONNX/resolve/master/whisper_encoder.onnx",
+      "backup-url": "https://www.modelscope.cn/api/v1/models/yxming99/Sonic-ONNX/repo?Revision=master&FilePath=whisper_encoder.onnx",
+      "desc": "Whisper 音频编码器",
+      "size": 32887794,
+      "target": "whisper_encoder.onnx",
+      "sha256sum": "047e1bf494708e34d126bcef0e10d98905d92b808fb3b3044fac77735a43a5f8"
+    },
+    {
+      "url": "https://modelscope.cn/models/yxming99/Sonic-ONNX/resolve/master/yoloface.onnx",
+      "backup-url": "https://www.modelscope.cn/api/v1/models/yxming99/Sonic-ONNX/repo?Revision=master&FilePath=yoloface.onnx",
+      "desc": "人脸检测与裁剪",
+      "size": 84424912,
+      "target": "yoloface.onnx",
+      "sha256sum": "af9389f7d51d8f9973f0eb80ee512f8ac58080dc020ffe7fa165d07223c28123"
+    }
+  ]
+}

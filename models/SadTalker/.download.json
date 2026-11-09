@@ -1,0 +1,88 @@
+{
+  "title": "SadTalker（单图说话头生成）",
+  "type": "model",
+  "version": "2026-11-09",
+  "license": "other（上游开源项目许可证，含第三方组件额外限制，以原项目 LICENSE 为准）",
+  "files": [
+    {
+      "url": "https://modelscope.cn/models/yxming99/SadTalker-ONNX/resolve/master/audio2exp.onnx",
+      "backup-url": "https://www.modelscope.cn/api/v1/models/yxming99/SadTalker-ONNX/repo?Revision=master&FilePath=audio2exp.onnx",
+      "desc": "音频到表情系数",
+      "size": 11393055,
+      "target": "audio2exp.onnx",
+      "sha256sum": "f85e2813750a3836402a6843559d36bb316ca7b4882f9c37915cf2e98d6f4680"
+    },
+    {
+      "url": "https://modelscope.cn/models/yxming99/SadTalker-ONNX/resolve/master/audio2pose_decoder.onnx",
+      "backup-url": "https://www.modelscope.cn/api/v1/models/yxming99/SadTalker-ONNX/repo?Revision=master&FilePath=audio2pose_decoder.onnx",
+      "desc": "音频到头部姿态解码器",
+      "size": 12644363,
+      "target": "audio2pose_decoder.onnx",
+      "sha256sum": "48efee2022dce5a049a023ea6c20575c8a33150f0cf85d89cea9805aa37c4888"
+    },
+    {
+      "url": "https://modelscope.cn/models/yxming99/SadTalker-ONNX/resolve/master/audio2pose_encoder.onnx",
+      "backup-url": "https://www.modelscope.cn/api/v1/models/yxming99/SadTalker-ONNX/repo?Revision=master&FilePath=audio2pose_encoder.onnx",
+      "desc": "音频到头部姿态编码器",
+      "size": 11244194,
+      "target": "audio2pose_encoder.onnx",
+      "sha256sum": "ac46f2e107d70433bb90c75870e9a391ba8725cc8b6353298b1827f7ca4a8fe8"
+    },
+    {
+      "url": "https://modelscope.cn/models/yxming99/SadTalker-ONNX/resolve/master/face_recon.onnx",
+      "backup-url": "https://www.modelscope.cn/api/v1/models/yxming99/SadTalker-ONNX/repo?Revision=master&FilePath=face_recon.onnx",
+      "desc": "3D 人脸重建",
+      "size": 96062487,
+      "target": "face_recon.onnx",
+      "sha256sum": "86c94a046e0d4c4a12f9b257898544c36b1ab1086c2a0ff22559acdd88a5467b"
+    },
+    {
+      "url": "https://modelscope.cn/models/yxming99/SadTalker-ONNX/resolve/master/facerender_generator.onnx",
+      "backup-url": "https://www.modelscope.cn/api/v1/models/yxming99/SadTalker-ONNX/repo?Revision=master&FilePath=facerender_generator.onnx",
+      "desc": "说话头画面渲染生成器",
+      "size": 526173574,
+      "target": "facerender_generator.onnx",
+      "sha256sum": "181ec598e834b1cd9ba552f8adcca87b8656c0a294e4522d11c35e0a41e0107d"
+    },
+    {
+      "url": "https://modelscope.cn/models/yxming99/SadTalker-ONNX/resolve/master/fan.onnx",
+      "backup-url": "https://www.modelscope.cn/api/v1/models/yxming99/SadTalker-ONNX/repo?Revision=master&FilePath=fan.onnx",
+      "desc": "人脸对齐关键点网络",
+      "size": 97667881,
+      "target": "fan.onnx",
+      "sha256sum": "9994f951579082d459e2fb6d6b2fa065a455c20149de8e027260bff217df8212"
+    },
+    {
+      "url": "https://modelscope.cn/models/yxming99/SadTalker-ONNX/resolve/master/gfpgan.onnx",
+      "backup-url": "https://www.modelscope.cn/api/v1/models/yxming99/SadTalker-ONNX/repo?Revision=master&FilePath=gfpgan.onnx",
+      "desc": "人脸超分与画质增强",
+      "size": 341136033,
+      "target": "gfpgan.onnx",
+      "sha256sum": "7a9701ddfdc728de5a7533e51279eb9a42ab75136a0b2c29ff36f8bede5eda9a"
+    },
+    {
+      "url": "https://modelscope.cn/models/yxming99/SadTalker-ONNX/resolve/master/kp_detector.onnx",
+      "backup-url": "https://www.modelscope.cn/api/v1/models/yxming99/SadTalker-ONNX/repo?Revision=master&FilePath=kp_detector.onnx",
+      "desc": "关键点检测",
+      "size": 167767176,
+      "target": "kp_detector.onnx",
+      "sha256sum": "49b2ed5c97bad3d48c4d99be7db4c8b9b37f98314fc91d05485b6246af7aea69"
+    },
+    {
+      "url": "https://modelscope.cn/models/yxming99/SadTalker-ONNX/resolve/master/mapping_net.onnx",
+      "backup-url": "https://www.modelscope.cn/api/v1/models/yxming99/SadTalker-ONNX/repo?Revision=master&FilePath=mapping_net.onnx",
+      "desc": "姿态 / 表情系数映射",
+      "size": 40786038,
+      "target": "mapping_net.onnx",
+      "sha256sum": "0f23a7c76555b7a058b1b5ce6765addd0ee643981b67193a15e04d455b807963"
+    },
+    {
+      "url": "https://modelscope.cn/models/yxming99/SadTalker-ONNX/resolve/master/retinaface.onnx",
+      "backup-url": "https://www.modelscope.cn/api/v1/models/yxming99/SadTalker-ONNX/repo?Revision=master&FilePath=retinaface.onnx",
+      "desc": "人脸检测",
+      "size": 109115368,
+      "target": "retinaface.onnx",
+      "sha256sum": "b184174a9775dcffdb38e7084462b3d1fca0acdf86e5e0e52a67bda1efcb53df"
+    }
+  ]
+}

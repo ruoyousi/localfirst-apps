@@ -1,0 +1,72 @@
+{
+  "title": "MuseTalk（实时唇形同步）",
+  "type": "model",
+  "version": "2026-11-09",
+  "license": "other（上游开源项目许可证，含第三方组件额外限制，以原项目 LICENSE 为准）",
+  "files": [
+    {
+      "url": "https://modelscope.cn/models/yxming99/MuseTalk-ONNX/resolve/master/bisenet.onnx",
+      "backup-url": "https://www.modelscope.cn/api/v1/models/yxming99/MuseTalk-ONNX/repo?Revision=master&FilePath=bisenet.onnx",
+      "desc": "人脸区域解析 / 掩码生成",
+      "size": 52597578,
+      "target": "bisenet.onnx",
+      "sha256sum": "77228dea1501306757fcf48d54819b915f03ab71c8204a621e65699d12335edf"
+    },
+    {
+      "url": "https://modelscope.cn/models/yxming99/MuseTalk-ONNX/resolve/master/musetalk_unet.onnx",
+      "backup-url": "https://www.modelscope.cn/api/v1/models/yxming99/MuseTalk-ONNX/repo?Revision=master&FilePath=musetalk_unet.onnx",
+      "desc": "主干 UNet（计算图）",
+      "size": 1160516,
+      "target": "musetalk_unet.onnx",
+      "sha256sum": "24085da2a57a0477a8111080208d5a842c9ed00f65261782aa536438a6a0ab2e"
+    },
+    {
+      "url": "https://modelscope.cn/models/yxming99/MuseTalk-ONNX/resolve/master/musetalk_unet.onnx.data",
+      "backup-url": "https://www.modelscope.cn/api/v1/models/yxming99/MuseTalk-ONNX/repo?Revision=master&FilePath=musetalk_unet.onnx.data",
+      "desc": "主干 UNet 的外置权重（须与同名 .onnx 放在同一目录）",
+      "size": 1699895688,
+      "target": "musetalk_unet.onnx.data",
+      "sha256sum": "496fdb35aa4838900503a7f9eebaa8e881daf2db858a91fa28b9467db333cbe9"
+    },
+    {
+      "url": "https://modelscope.cn/models/yxming99/MuseTalk-ONNX/resolve/master/vae_dec.onnx",
+      "backup-url": "https://www.modelscope.cn/api/v1/models/yxming99/MuseTalk-ONNX/repo?Revision=master&FilePath=vae_dec.onnx",
+      "desc": "VAE 解码器（计算图）",
+      "size": 123591,
+      "target": "vae_dec.onnx",
+      "sha256sum": "3659256cd225e730c0de28e4199d69dfe44e36aee024632c4e896792aa8f11a5"
+    },
+    {
+      "url": "https://modelscope.cn/models/yxming99/MuseTalk-ONNX/resolve/master/vae_dec.onnx.data",
+      "backup-url": "https://www.modelscope.cn/api/v1/models/yxming99/MuseTalk-ONNX/repo?Revision=master&FilePath=vae_dec.onnx.data",
+      "desc": "VAE 解码器外置权重（须与同名 .onnx 放在同一目录）",
+      "size": 98980398,
+      "target": "vae_dec.onnx.data",
+      "sha256sum": "aed7b3eaaad22a935eeb8953043f394b390680c19258644f391fca3fad9b0885"
+    },
+    {
+      "url": "https://modelscope.cn/models/yxming99/MuseTalk-ONNX/resolve/master/vae_enc.onnx",
+      "backup-url": "https://www.modelscope.cn/api/v1/models/yxming99/MuseTalk-ONNX/repo?Revision=master&FilePath=vae_enc.onnx",
+      "desc": "VAE 编码器（计算图）",
+      "size": 107702,
+      "target": "vae_enc.onnx",
+      "sha256sum": "9a434b186195d3224c108d8b170688a4fcda8e964cc885d0e00143db33a54526"
+    },
+    {
+      "url": "https://modelscope.cn/models/yxming99/MuseTalk-ONNX/resolve/master/vae_enc.onnx.data",
+      "backup-url": "https://www.modelscope.cn/api/v1/models/yxming99/MuseTalk-ONNX/repo?Revision=master&FilePath=vae_enc.onnx.data",
+      "desc": "VAE 编码器外置权重（须与同名 .onnx 放在同一目录）",
+      "size": 68327328,
+      "target": "vae_enc.onnx.data",
+      "sha256sum": "7d55456279188dbbc229e135b24e3e03c5e366d6aa45e8232a8ff80641be4d27"
+    },
+    {
+      "url": "https://modelscope.cn/models/yxming99/MuseTalk-ONNX/resolve/master/whisper_enc.onnx",
+      "backup-url": "https://www.modelscope.cn/api/v1/models/yxming99/MuseTalk-ONNX/repo?Revision=master&FilePath=whisper_enc.onnx",
+      "desc": "Whisper 音频特征编码",
+      "size": 32887184,
+      "target": "whisper_enc.onnx",
+      "sha256sum": "197f5b133bfb91419d06b86ee844839b3f0515b5d5ec3c52d4ad852c326ef1a9"
+    }
+  ]
+}
