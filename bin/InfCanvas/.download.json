@@ -7,9 +7,9 @@
     {
       "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/InfCanvas.zip",
       "desc": "应用包",
-      "size": 9872143,
+      "size": 10332646,
       "target": "InfCanvas.zip",
-      "sha256sum": "d03b5ef2bdc23176983f6809376c67bcb3b510e4f20f67808ab59f31fb062a55"
+      "sha256sum": "6a05b3d93598debc21314ce0649cb498e883181d35cc2adc448a2f0709613321"
     },
     {
       "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/ffmpeg.zip",
