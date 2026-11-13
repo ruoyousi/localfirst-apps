@@ -7,9 +7,9 @@
     {
       "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/LiveTalker.zip",
       "desc": "应用包（含 UI / 推理服务 / CLI 与服务定义）",
-      "size": 17253294,
+      "size": 17253330,
       "target": "LiveTalker.zip",
-      "sha256sum": "ee422cf5e4fdeec3517810df6457c341bccf647e30a37ee488098f4f4c2a8623"
+      "sha256sum": "d35efc48a130d355fd690c41afab1937211292bdbdf4c688321e4de1f43a9333"
     },
     {
       "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/cuda13-runtime.zip",

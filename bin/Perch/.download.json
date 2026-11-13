@@ -6,10 +6,10 @@
   "files": [
     {
       "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/Perch.zip",
-      "desc": "应用包（含 Perch 本体、数据库、cuda13/vulkan 语音服务定义）",
-      "size": 32693898,
+      "desc": "应用包（含 Perch 本体、cuda13/vulkan 语音服务定义；不含 perch.db 本地数据库）",
+      "size": 32946403,
       "target": "Perch.zip",
-      "sha256sum": "5a4ff041c62761be86b2089e63d949ea5a8156221b964ad03d3107332508b483"
+      "sha256sum": "9fdcfd7f54eb4eadf68339614f9f29fd85de2c3569e3c5907b00da71cb9e8f25"
     }
   ]
 }

@@ -13,10 +13,10 @@
     },
     {
       "url": "https://github.com/ruoyousi/localfirst-apps/releases/download/v1/PixelForge.zip",
-      "desc": "应用包",
-      "size": 16148416,
+      "desc": "应用包（含 UI / 推理服务 / CLI、图标与两个图像模型服务定义；不含 pixelforge.db 本地数据库）",
+      "size": 16795731,
       "target": "PixelForge.zip",
-      "sha256sum": "11dbee4a57e456c2074a478db605c5f3b1476bccd3e79a26015609c28443ef2e"
+      "sha256sum": "663d2ab4fd99a2c421a078961851651c7bd6e16197bd141100616da2ade9ccad"
     }
   ]
 }
